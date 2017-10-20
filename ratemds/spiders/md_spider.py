@@ -22,7 +22,7 @@ class MDSpider(Spider):
 		gender = response.xpath('//div[@class="col-sm-3 col-md-4 search-item-extra"]/div[1]//a/text()').extract_first()
 		num_reviews = response.xpath('//div[@class="star-rating-count"]/span/text()').extract_first()
 		languages = response.xpath('//ul[@class="credentials list-inline list-comma-seperated"]//text()').extract()
-		borough = response.xpath('//a[@href="/best-doctors/ny/brooklyn/"]/span/text()').extract_first()
+		borough = response.xpath('//ol[@class="breadcrumb"]//a//text()').extract()[2]
 
 		item = RatemdsItem()
 		item['doc_name'] = doc_name
