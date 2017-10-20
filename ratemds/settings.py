@@ -11,6 +11,8 @@
 
 BOT_NAME = 'ratemds'
 
+DOWNLOAD_FAIL_ON_DATALOSS = False
+
 SPIDER_MODULES = ['ratemds.spiders']
 NEWSPIDER_MODULE = 'ratemds.spiders'
 

@@ -11,7 +11,7 @@ from scrapy.exporters import CsvItemExporter
 class ValidateItemPipeline(object):
 
     def process_item(self, item, spider):
-        if not all(item.values()):
+        if not item['doc_name']:
             raise DropItem("Missing values!")
         else:
             return item
