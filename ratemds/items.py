@@ -15,6 +15,6 @@ class RatemdsItem(scrapy.Item):
 	num_reviews = scrapy.Field()
 	insurances = scrapy.Field()
 	languages = scrapy.Field()
-	score = scrapy.Field()
-	category = scrapy.Field()
+
+
 

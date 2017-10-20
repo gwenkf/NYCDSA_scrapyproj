@@ -1,0 +1,1611 @@
+languages,insurances,gender,specialty,doc_name,num_reviews
+,, Male,Reproductive Endocrinologist,Dr. Michael L. Traub,120
+,, Male,Orthopedic Surgeon,Dr. Christopher Hubbard,17
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Emmanuel O. Asare,25
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Steven J. Pearlman,95
+,, Female,Reproductive Endocrinologist,Dr. Ina N. Cholst,61
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Michael Y. Mizhiritsky,18
+,, Female,Psychologist,Dr. Yasmine Saad,23
+,, Female,Gastroenterologist,Dr. Jennifer L. Bonheur,19
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Gregory S. Latrenta,30
+,, Male,Podiatrist,Dr. Rahul Patel,11
+,, Male,Reproductive Endocrinologist,Dr. Joshua U. Klein,11
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Guy Lin,15
+,, Male,Internist / Geriatrician,Dr. Jeffrey D. Fisher,13
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Emil Ganjian,27
+,, Male,Orthopedic Surgeon,Dr. Elliott B. Hershman,23
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Philippe Chemaly,21
+,, Male,Neurosurgeon,Dr. Anders Cohen,20
+,, Male,Oncologist / Hematologist,Dr. Farr Nezhat,16
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Olivia H. Hutchinson,17
+,, Male,Urogynecologist,Dr. Alan Garely,62
+,, Male,Dentist,Dr. Azher Abbas,14
+,, Male,Urogynecologist,Dr. Patrick Culligan ,28
+,, Male,Urologist,Dr. Menachem Mendel Shem Tov,11
+,, Female,Acupuncturist,Dr. Barbara A. Siminovich-Blok,17
+,, Male,Family Doctor / G.P.,Dr. George P. Liakeas,31
+,, Male,Bariatric / Weight Loss Specialist,Dr. Shawn M. Garber,34
+,, Male,Urologist,Dr. Ash Tewari,31
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Amiya Prasad,84
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Garrett H. Bennett,14
+,, Female,Podiatrist,Dr. Christine Ellie,34
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Douglas A. Taranow,61
+,, Male,Orthopedic Surgeon,Dr. William Kennedy Main,28
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Michael C. Gartner,186
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Douglas Steinbrech,155
+,, Male,Surgeon (general),Dr. Daniel F. Roses,28
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Douglas C. Schottenstein,99
+,, Male,Orthopedic Surgeon,Dr. Sean E. McCance,60
+,, Male,Gastroenterologist,Dr. Leon Kavaler,80
+,, Male,Neurosurgeon,Dr. Joshua B. Bederson,25
+,, Male,Orthopedic Surgeon,Dr. Boris Abayev,53
+,, Male,Orthopedic Surgeon,Dr. Jeffrey A. Goldstein,94
+,, Male,Dermatologist,Dr. Howard Sobel,64
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Darrick E. Antell,48
+,, Male,Oncologist / Hematologist,Dr. Daniel Shasha,116
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Lara Devgan,134
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Gordon Z. Andan,19
+,, Male,Urologist,Dr. Benjamin C. Peng,53
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Thomas W. Loeb,33
+,, Male,Family Doctor / G.P.,Dr. Natan Schleider,34
+,, Female,Psychiatrist,Dr. Shari I. Lusskin,18
+,, Male,Gynecologist (OBGYN),Dr. Clarel Antoine,45
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Trevor Born,220
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Brett S. Kotlus,44
+,, Male,Reproductive Endocrinologist,Dr. Matthew A. Lederman,68
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Richard Reish,49
+,, Male,Urologist,Dr. David B. Samadi,85
+,, Female,Urologist,Dr. Philippa J. Cheetham,56
+,, Male,Podiatrist,Dr. Lawrence Silverberg,74
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Jeffrey A. Ascherman,41
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Andrew A. Jacono,253
+,, Female,Dermatologist,Dr. Julie K. Karen,15
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Norman J. Pastorek,49
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Kenneth B. Chapman,37
+,, Male,Anesthesiologist,Dr. Keyvan Jahanbakhsh,8
+,, Male,Orthopedic Surgeon,Dr. Robert Meislin,16
+,, Female,Gynecologist (OBGYN),Dr. Eleonora Markesic,10
+,, Male,Neurosurgeon,Dr. Frank M. Moore,14
+,, Male,Surgeon (general),Dr. Ashok R. Shaha,22
+,, Male,Orthopedic Surgeon,"Dr. Leon E. Popovitz, MD",16
+,, Female,Psychiatrist,Dr. Anna Wachtel,46
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Sherrell J. Aston,48
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Corey Hunter,41
+,, Male,Podiatrist,Dr. Keith A. Mobilia,18
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Robert MORIN,13
+,, Female,Family Doctor / G.P.,Dr. Irina Korneeva-Vladimirsky,24
+,, Male,Orthopedic Surgeon,Dr. Jose J. Echenique,9
+,, Male,Urologist,Dr. Michael J. Schwartz,8
+,, Male,Gynecologist (OBGYN),Dr. Andrew L. Defazio,29
+,, Male,Podiatrist,Dr. Alexander Fish,9
+,, Male,Reproductive Endocrinologist,Dr. Daniel E. Stein,100
+,, Female,Gynecologist (OBGYN),Dr. Anate Anate Brauer,14
+,, Male,Neurosurgeon,Dr. Kalmon D. Post,21
+,, Female,Ophthalmologist,Dr. Jessica Lattman,17
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. David R. Edelstein,33
+,, Female,Gynecologist (OBGYN),Dr. Mary Lee Rivera-Casamento,28
+,, Male,Orthopedic Surgeon,Dr. Andrew M. Casden,37
+,, Male,Reproductive Endocrinologist,Dr. Norbert Gleicher,10
+,, Male,Gastroenterologist,Dr. Peter Kim,9
+,, Female,Psychologist,Dr. Elinor Bock,9
+,, Male,Dermatologist,Dr. Daniel R. Foitl,11
+,, Male,Internist / Geriatrician,Dr. Daniel Goldin,11
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Sharon Giese,33
+,, Male,Internist / Geriatrician,Dr. Eric N. Lutsky,23
+,, Male,Psychiatrist,Dr. Howard S. Rudominer,11
+,, Male,Gynecologist (OBGYN),Dr. Alexander Shifrin,35
+,, Female,Internist / Geriatrician,Dr. Svetlana Kogan,17
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Steven H. Sacks,22
+,, Female,Gynecologist (OBGYN),Dr. Ellen Manos,16
+,, Male,Neurosurgeon,Dr. Michael H. Lavyne,18
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Natasha F. Keenan,10
+,, Male,Internist / Geriatrician,Dr. Gary M. Horbar,16
+,, Male,Surgeon (general),Dr. Stephen R. Gorfine,11
+,, Male,Dermatologist,Dr. Michael L. Reed,6
+,, Male,Urologist,Dr. David Shusterman,17
+,, Male,Dentist,Dr. John G. Stanescu,13
+,, Male,Oncologist / Hematologist,Dr. Gabriel A. Sara,14
+,, Female,Psychologist,Dr. Wylie Goodman,14
+,, Male,Orthopedic Surgeon,Dr. David M. Dines,6
+,, Male,Psychiatrist,Dr. Brian G. Buggie,13
+,, Male,Gynecologist (OBGYN),Dr. Steven A. Ordorica,6
+,, Male,Orthopedic Surgeon,Dr. Ramesh Gidumal,28
+,, Male,Neurosurgeon,Dr. Erik C. Parker,14
+,, Male,Infectious Disease Specialist,Dr. Bernard D. Raxlen,37
+,, Male,Urologist,Dr. Michael Grasso,16
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Robert P. Green,12
+,, Male,Internist / Geriatrician,Dr. Peter J. Charap,27
+,, Female,Gastroenterologist,Dr. Julie Foont,11
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Won-Taek Choe,16
+,, Female,Cardiologist,Dr. Luiza F. Petre,15
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Anna Aronzon,22
+,, Male,Dermatologist,Dr. Noah Scheinfeld,54
+,, Female,Internist / Geriatrician,Dr. Nina Priven,8
+,, Female,Allergist / Immunologist,Dr. Beth E. Corn,16
+,, Male,Gynecologist (OBGYN),Dr. Lawrence E. Cutler,11
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Robert Schwarcz,16
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Henry M. Spinelli,46
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Stefan Kieserman,21
+,, Female,Internist / Geriatrician,Dr. Kelly Cassano,21
+,, Male,Urologist,Dr. R. Ernest Sosa,12
+,, Female,Ophthalmologist,Dr. Naomi I. Hayashi,18
+,, Female,Gynecologist (OBGYN),Dr. Anna Barbieri,15
+,, Male,Reproductive Endocrinologist,Dr. Lawrence Grunfeld,29
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Richard W. Westreich,15
+,, Male,Ophthalmologist,Dr. Daniel Laroche,7
+,, Male,Gynecologist (OBGYN),Dr. Beny Pascario,9
+,, Female,Gynecologist (OBGYN),Dr. Laxmi Baxi,27
+,, Male,Internist / Geriatrician,Dr. Navindra Ramdeen,5
+,, Male,Gynecologist (OBGYN),Dr. Manuel M. Alvarez,54
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Alan Matarasso,24
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Suelane S. Do Ouro,5
+,, Male,Gynecologist (OBGYN),Dr. Jeffrey A. Mazlin,11
+,, Male,Cardiologist,Dr. Back K. Kim,36
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Adam D. Schaffner,5
+,, Male,Ophthalmologist,Dr. James D. Auran,11
+,, Male,Rheumatologist,Dr. Hendricks H. Whitman,10
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Cap Lesesne,37
+,, Female,Gynecologist (OBGYN),Dr. Tracy B. HEMMERDINGER,6
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Gady Har-El,6
+,, Male,Family Doctor / G.P.,Dr. Sanford M. Gould,14
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Michael J. Brennan,20
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Rosa M. Razaboni,9
+,, Male,Orthopedic Surgeon,Dr. Joel S. Buchalter,22
+,, Male,Gynecologist (OBGYN),Dr. Michael PLAKOGIANNI,6
+,, Female,Dermatologist,Dr. Elyse S. Rafal,5
+,, Female,Dermatologist,Dr. Robyn Gmyrek,6
+,, Male,Orthopedic Surgeon,Dr. Andrew C. Hecht,38
+,, Male,Ophthalmologist,Dr. Michael Engelbert,10
+,, Male,Gynecologist (OBGYN),Dr. Aaron Weinreb,14
+,, Female,Surgeon (general),Dr. Stephanie Bernik,9
+,, Male,Psychiatrist,Dr. Francis G. Mas,8
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Peter Schmaus,12
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Salvatore M. Caruana,17
+,, Male,Gynecologist (OBGYN),Dr. Tamer A. Seckin,44
+,, Male,Cardiologist,Dr. Olivier Frankenberger,11
+,, Male,Ophthalmologist,Dr. Josh Glatman,9
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Geoffrey J. Pollack,5
+,, Female,Gynecologist (OBGYN),Dr. Rebecca C. Amaru,18
+,, Male,Vascular Surgeon / Phlebologist,Dr. DAVID Fox,8
+,, Male,Psychologist,Dr. Jay Seitz,12
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Warren H. Zelman,11
+,, Male,Dermatologist,Dr. Alexander Doctoroff,36
+,, Female,Gastroenterologist,Dr. Christine Frissora-Rodeo,27
+,, Male,Surgeon (general),Dr. Thomas J. Fahey,15
+,, Male,Neurologist,Dr. Amir A. Towfigh,8
+,, Male,Internist / Geriatrician,Dr. David H. Baskin,6
+,, Male,Gynecologist (OBGYN),Dr. Boris M. Petrikovsky,6
+,, Male,Neurosurgeon,Dr. John S. Shiau,17
+,, Male,Gynecologist (OBGYN),Dr. Ohanes K. Cholakian,19
+,, Female,Dermatologist,Dr. Misbah H. Khan,13
+,, Male,Ophthalmologist,Dr. James P. Milite,11
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Ofer Jacobowitz,11
+,, Male,Dermatologist,Dr. David A. Kriegel,13
+,, Male,Dermatologist,Dr. Mitchell J. Mandel,8
+,, Male,Urologist,Dr. PAUL Russo,6
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Victoria Karlinsky-Bellini,8
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Spiros Manolidis,10
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Tamekia Wakefield,5
+,, Female,Gynecologist (OBGYN),Dr. Melanie L. Marin,23
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Jay N. Dolitsky,17
+,, Male,Gastroenterologist,Dr. Jeffrey Ben-Zvi,14
+,, Male,Anesthesiologist,Dr. Jan M. Slomba,15
+,, Male,Orthopedic Surgeon,Dr. Cary B. Chapman,27
+,, Male,Psychiatrist,Dr. Michael J. Mahelsky,8
+,, Male,Neurologist,Dr. Ranga Chelva Krishna,20
+,, Female,Internist / Geriatrician,Dr. Marina Gafanovich,19
+,, Male,Gynecologist (OBGYN),Dr. Bruce K. Young,5
+,, Female,Rheumatologist,Dr. Paula Rackoff,50
+,, Male,Internist / Geriatrician,Dr. Skender Murtezani,8
+,, Male,Gynecologist (OBGYN),Dr. Maiquel Carrasco,26
+,, Male,Gastroenterologist,Dr. Edward S. Goldberg,24
+,, Female,Gynecologist (OBGYN),Dr. Deborah J. Coady,16
+,, Male,Cardiothoracic Surgeon,Dr. David H. Adams,8
+,, Female,Dermatologist,Dr. Robin M. Borkowsky,18
+,, Male,Dermatologist,Dr. Noah S. Heftler,11
+,, Male,Neurologist,Dr. Norman Sobol,9
+,, Male,Ophthalmologist,Dr. Ebrahim Elahi,4
+,, Female,Dermatologist,Dr. Sumayah Jamal,8
+,, Female,Gynecologist (OBGYN),Dr. Wenhui Jin,22
+,, Female,Reproductive Endocrinologist,Dr. Beth Hartog,4
+,, Male,Cardiologist,Dr. Azriel Haimowitz,4
+,, Male,Oncologist / Hematologist,Dr. William P. Tew,4
+,, Male,Psychiatrist,Dr. Glenn S. Hirsch,4
+,, Male,Surgeon (general),Dr. Gary A. Gelbfish,4
+,, Male,Reproductive Endocrinologist,Dr. Martin D. Keltz,66
+,, Male,Oncologist / Hematologist,Dr. Peter R. Dottino,26
+,, Male,Gastroenterologist,Dr. Jeffrey S. Crespin,25
+,, Male,Orthopedic Surgeon,Dr. Riley J. Williams,19
+,, Male,Psychiatrist,Dr. Gregory L. Gass,6
+,, Male,Internist / Geriatrician,Dr. Jeffrey Glick,24
+,, Female,Gynecologist (OBGYN),Dr. Ruth Steinberg,18
+,, Female,Gynecologist (OBGYN),Dr. Anita Lasala,17
+,, Male,Surgeon (general),Dr. Court Cutting,14
+,, Male,Ophthalmologist,Dr. Warren Appleman,6
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Andres Lopez-Albaitero,4
+,, Male,Oncologist / Hematologist,Dr. Farid Boulad,5
+,, Male,Gastroenterologist,Dr. Meyer N. Solny,4
+,, Male,Gastroenterologist,Dr. Jerome S. Breslaw,4
+,, Male,Gynecologist (OBGYN),Dr. Miklos Toth,4
+,, Male,Dermatologist,Dr. Albert Lefkovits,4
+,, Male,Cardiothoracic Surgeon,Dr. Dimitrios V. Avgerinos,4
+,, Male,Gynecologist (OBGYN),Dr. Milton Haynes,4
+,, Male,Orthopedic Surgeon,Dr. Matthew Austin,4
+,, Male,Gynecologist (OBGYN),Dr. Donald S. Matheson,10
+,, Female,Surgeon (general),Dr. Alison Estabrook,10
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Kevin Tehrani,4
+,, Male,Oncologist / Hematologist,Dr. Michael Diaz,7
+,, Male,Internist / Geriatrician,Dr. Paul Knoepflmacher,5
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Daniel B. Kuriloff,7
+,, Female,Surgeon (general),Dr. Kimberly J. Van Zee,4
+,, Male,Internist / Geriatrician,Dr. Ilya Bilik,19
+,, Male,Anesthesiologist,Dr. Joel Kreitzer,5
+,, Male,Dermatologist,Dr. Joshua L. Fox,34
+,, Female,Gynecologist (OBGYN),Dr. Linda M. Cho,15
+,, Male,Ophthalmologist,Dr. Robert Friedman,14
+,, Male,Family Doctor / G.P.,Dr. John Michael McKnight,11
+,, Male,Internist / Geriatrician,Dr. Derek Enlander,37
+,, Female,Gynecologist (OBGYN),Dr. Anne T. Carlon,11
+,, Male,Gastroenterologist,Dr. Arnold L. Weg,27
+,, Male,Internist / Geriatrician,Dr. Zurab Abayev,7
+,, Female,Orthopedic Surgeon,Dr. Jo A. Hannafin,4
+,, Male,Gynecologist (OBGYN),Dr. Ezra M. Dori,5
+,, Female,Pediatrician,Dr. Andrea Brescia,7
+,, Female,Gynecologist (OBGYN),Dr. Susan Loeb-Zeitlin,10
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Mukesh Prasad,13
+,, Male,Surgeon (general),Dr. Anthony C. Cahan,4
+,, Male,Oncologist / Hematologist,Dr. Matthew Harris,4
+,, Male,Gynecologist (OBGYN),Dr. Francis X. Martingano,28
+,, Male,Oral Surgeon,Dr. David Behrman,13
+,, Male,Orthopedic Surgeon,Dr. Steven Beldner,19
+,, Female,Gynecologist (OBGYN),Dr. Gae M. Rodke,20
+,, Male,Surgeon (general),Dr. I. Michael Leitman,8
+,, Male,Gynecologist (OBGYN),Dr. Yevgeniy Schuster,24
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Heidi Klingbeil,6
+,, Male,Pulmonologist (lungs),Dr. Donald Fishman,10
+,, Female,Dentist,Dr. Gisele Arnaud,7
+,, Male,Reproductive Endocrinologist,Dr. James Grifo,16
+,, Female,Endocrinologist,Dr. Stephanie A. Fish,6
+,, Male,Cardiologist,Dr. Sabahat Bokhari,3
+,, Female,Ophthalmologist,Dr. Elona Gavazi,3
+,, Male,Dentist,Dr. Aviram D. Shmuely,3
+,, Male,Orthopedic Surgeon,Dr. Paul L. Kuflik,3
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Kevin H. Ende,3
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Anat Keidar,3
+,, Male,Gynecologist (OBGYN),Dr. John Evanko,11
+,, Female,Gynecologist (OBGYN),Dr. Ilana D. Lustig,20
+,, Male,Endocrinologist,Dr. William B. Inabnet,4
+,, Male,Neurologist,Dr. Patrick Stubgen,37
+,, Male,Reproductive Endocrinologist,Dr. Peter L. Chang,29
+,, Male,Gastroenterologist,Dr. Neil M. Brodsky,6
+,, Male,Family Doctor / G.P.,Dr. Kevin A. Charlotten,6
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Joanna B. D'Elia,6
+,, Male,Allergist / Immunologist,Dr. Bernard A. Feigenbaum,6
+,, Male,Podiatrist,Dr. Raymond Cavaliere,6
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Michael S. Margiotta,6
+,, Male,Dentist,Dr. Gildo R. Corradi,7
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. David H. Slavit,12
+,, Female,Oncologist / Hematologist,Dr. Debra Mangino,3
+,, Female,Internist / Geriatrician,Dr. Beverly W. Hurd,14
+,, Male,Internist / Geriatrician,Dr. Gary I. Rogg,4
+,, Female,Gynecologist (OBGYN),Dr. Lana Boter,29
+,, Male,Urologist,Dr. Joseph R. Wagner,3
+,, Male,Cardiothoracic Surgeon,Dr. Craig R. Smith,3
+,, Female,Psychiatrist,Dr. Helen Muhlbauer,3
+,, Male,Orthopedic Surgeon,Dr. Ronald Moskovich,6
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Joseph A. Eviatar,6
+,, Female,Reproductive Endocrinologist,Dr. Janet Choi,25
+,, Male,Neurologist,Dr. Norman Latov,19
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Abraham I. Sinnreich,23
+,, Male,Rheumatologist,Dr. Jason Faller,16
+,, Male,Orthopedic Surgeon,Dr. William B. MacAulay,6
+,, Male,Internist / Geriatrician,Dr. Stuart I. Orsher,9
+,, Male,Gynecologist (OBGYN),Dr. Amir Marashi,11
+,, Male,Internist / Geriatrician,Dr. Bernard Schayes,17
+,, Male,Urologist,Dr. Simon J. Hall,9
+,, Female,Gynecologist (OBGYN),Dr. Jacqueline Bush,11
+,, Female,Gynecologist (OBGYN),Dr. Sophia Drosinos,22
+,, Male,Urologist,Dr. Peter N. Schlegel,10
+,, Female,Internist / Geriatrician,Dr. Judy Tung,6
+,, Male,Surgeon (general),Dr. Eric D. Moore,5
+,, Male,Internist / Geriatrician,Dr. Jeffrey A. Naiditch,10
+,, Male,Oncologist / Hematologist,Dr. Arthur I. Goldberg,3
+,, Male,Gastroenterologist,Dr. Peter Chang,6
+,, Male,Dermatologist,Dr. Steven A. Victor,6
+,, Male,Orthopedic Surgeon,Dr. Answorth A. Allen,22
+,, Female,Gynecologist (OBGYN),Dr. Tani Sanghvi,5
+,, Male,Nephrologist (kidney),Dr. Raymond L. Sherman,9
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Armand V. Simone,3
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Laurence A. Kirwan,3
+,, Male,Internist / Geriatrician,Dr. Alex Beylinson,3
+,, Male,Oncologist / Hematologist,Dr. George J. Bosl,3
+,, Male,Urologist,Dr. Bruce R. Gilbert,3
+,, Male,Gastroenterologist,Dr. Forrest Manheimer,3
+,, Male,Reproductive Endocrinologist,Dr. Paul R. Gindoff,8
+,, Male,Cardiothoracic Surgeon,Dr. Mehmet C. Oz,7
+,, Male,Oncologist / Hematologist,Dr. Bruce Culliney,3
+,, Male,Allergist / Immunologist,Dr. Paul M. Ehrlich,5
+,, Male,Orthopedic Surgeon,Dr. Laith Jazrawi,11
+,, Male,Orthopedic Surgeon,Dr. Steven B. Weinfeld,23
+,, Male,Orthopedic Surgeon,Dr. Jeffrey M. Gross,3
+,, Male,Podiatrist,Dr. Daniel B. Firshein,3
+,, Male,Cardiologist,Dr. Mark L. Meyer,3
+,, Male,Dermatologist,Dr. Jeffrey A. SKLAR,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Sheldon Palgon,5
+,, Male,Gastroenterologist,Dr. Joseph Durzieh,8
+,, Male,Cardiologist,Dr. Thomas J. Vazzana,7
+,, Male,Reproductive Endocrinologist,Dr. John R. Quagliarello,3
+,, Female,Gynecologist (OBGYN),Dr. Michele K. Silverstein,10
+,, Male,Neurologist,Dr. Joseph Safdieh,9
+,, Male,Gastroenterologist,Dr. Paul M. Basuk,7
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. David A. Seidman,4
+,, Male,Orthopedic Surgeon,Dr. Eli Bryk,8
+,, Male,Orthopedic Surgeon,Dr. Todd R. Schlifstein,10
+,, Male,Cardiothoracic Surgeon,Dr. Joshua R. Sonett,3
+,, Female,Gynecologist (OBGYN),Dr. Erica Y. Song,16
+,, Male,Gynecologist (OBGYN),Dr. Joel M. Moskowitz,11
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Harvey M. Plasse,4
+,, Male,"Plastic / Cosmetic Surgeon, Physician","Dr. Scott J. Zevon, MD, FACS",7
+,, Female,Gynecologist (OBGYN),Dr. Shahnoz Rustamova,10
+,, Male,Gastroenterologist,Dr. Arthur Asher Kornbluth,12
+,, Male,Cardiologist,Dr. Elias H. Kassab,10
+,, Female,Dermatologist,Dr. Cheryl Karcher,5
+,, Male,Neurologist,Dr. Gerald J. Smallberg,7
+,, Male,Surgeon (general),Dr. Simon D. Fink,6
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. R. Lucian Sulica,4
+,, Male,Gastroenterologist,Dr. Brian R. Landzberg,7
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. William B. Rosenblatt,7
+,, Male,Dermatologist,Dr. Emmanuel Loucas,12
+,, Male,Cardiologist,Dr. Daniel Zanger,8
+,, Female,Oncologist / Hematologist,Dr. Nancy E. Kemeny,13
+,, Male,Oncologist / Hematologist,Dr. Alec S. Goldenberg,10
+,, Male,Internist / Geriatrician,Dr. Ed S. Benmen,11
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Gary Alter,3
+,, Female,Family Doctor / G.P.,Dr. Joan A. Stroud,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Christopher J. Linstrom,4
+,, Male,Internist / Geriatrician,Dr. Martin J. Frankel,4
+,, Male,Orthopedic Surgeon,Dr. Stuart Elkowitz,6
+,, Female,Podiatrist,Dr. Hillary B. Brenner,7
+,, Male,Ophthalmologist,Dr. Mitsugu Shimmyo,3
+,, Male,Pain Management Specialist / Physical Therapist,Dr. George J. Kessler,3
+,, Male,Ophthalmologist,Dr. Eric R. Brocks,5
+,, Male,Gastroenterologist,Dr. James G. Robilotti,8
+,, Female,Endocrinologist,Dr. Olga Leonardi,24
+,, Female,Reproductive Endocrinologist,Dr. Cristina Matera,8
+,, Female,Ophthalmologist,Dr. Dalia S. Nagel,5
+,, Female,Orthopedic Surgeon,Dr. Jessica B. Gallina,10
+,, Female,Oncologist / Hematologist,Dr. Gabrielle Gossner,6
+,, Male,Ophthalmologist,Dr. Frank E. Accardi,7
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Michelle Copeland,26
+,, Female,Gynecologist (OBGYN),Dr. Sharon Patrick,18
+,, Male,Ophthalmologist,Dr. Ronald Gentile,3
+,, Male,Urologist,Dr. Stanley H. Boczko,6
+,, Male,Internist / Geriatrician,Dr. Gerald G. DiMaso,8
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Brad E. Jacobs,27
+,, Male,Ophthalmologist,Dr. Marc A. Rosenblatt,9
+,, Male,Neurosurgeon,Dr. Neil Feldstein,4
+,, Female,Pediatrician,Dr. Anita Guha,3
+,, Female,Gynecologist (OBGYN),Dr. Irene Kakossian,41
+,, Female,Gynecologist (OBGYN),Dr. Lim Tse,32
+,, Female,Gynecologist (OBGYN),Dr. Natalia Meimaris,78
+,, Female,Gynecologist (OBGYN),Dr. Dena E. Harris,9
+,, Male,Gynecologist (OBGYN),Dr. Eric M. Ganz,10
+,, Male,Neurologist,Dr. Mark Sivak,13
+,, Female,Dermatologist,Dr. Shera M. Aranoff,14
+,, Female,Oncologist / Hematologist,Dr. Susan F. Slovin,8
+,, Male,Podiatrist,Dr. Steven P. Abramow,8
+,, Male,Orthopedic Surgeon,Dr. STEVEN B. Zelicof,11
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Bryan J. O'Young,4
+,, Male,Neurosurgeon,Dr. Philip Stieg,5
+,, Male,Dermatologist,Dr. Leon K. Demar,18
+,, Male,Surgeon (general),Dr. Talat F. Addasi,4
+,, Male,Gynecologist (OBGYN),Dr. Amos Grunebaum,6
+,, Male,Pediatrician,Dr. Sol S. Zimmerman,8
+,, Male,Gynecologist (OBGYN),Dr. Andrei Rebarber,3
+,, Female,Family Doctor / G.P.,Dr. Lara Mor Zilberstein,7
+,, Male,Endocrinologist,Dr. Philip Felig,17
+,, Male,Dermatologist,Dr. Michael I. Jacobs,5
+,, Female,Psychiatrist,Dr. Julia B. Samton,23
+,, Male,Ophthalmologist,Dr. Barrie Soloway,3
+,, Male,Psychiatrist,Dr. Allan M. Lans,6
+,, Female,Gynecologist (OBGYN),Dr. Yvonne E. Noel,7
+,, Male,Orthopedic Surgeon,Dr. Young Kwon,6
+,, Male,Surgeon (general),Dr. Robert J. Korst,6
+,, Male,Ophthalmologist,Dr. Arnold D. Yagoda,6
+,, Female,Internist / Geriatrician,Dr. Susan Minkowitz,6
+,, Male,Ophthalmologist,Dr. Jeffrey G. Odel,9
+,, Male,Orthopedic Surgeon,Dr. Amar S. Ranawat,14
+,, Female,Dermatologist,Dr. Anne M. Chapas,16
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. John W. Siebert,10
+,, Male,Ophthalmologist,Dr. Sergiu Marcus,6
+,, Male,Oral Surgeon,Dr. Antonio L. Del Valle,3
+,, Male,Cardiologist,Dr. George Brief,10
+,, Female,Gynecologist (OBGYN),Dr. Gila Aaron,47
+,, Female,Gynecologist (OBGYN),Dr. Mari SU,12
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Michael A. Rothschild,6
+,, Male,Anesthesiologist,Dr. Sukdeb Datta,6
+,, Female,Dermatologist,Dr. Ellen S. Marmur,19
+,, Female,Pulmonologist (lungs),Dr. Josephine Samson,10
+,, Male,Gynecologist (OBGYN),Dr. Dmitry Bronfman,9
+,, Male,Cardiologist,Dr. Rony Y. Shimony,9
+,, Male,Neurologist,Dr. Glenn E. Waldman,5
+,, Female,Gynecologist (OBGYN),Dr. Dorothy Smok,5
+,, Male,Gynecologist (OBGYN),Dr. Yakov Levy,11
+,, Female,Gynecologist (OBGYN),Dr. Jacqueline Worth,23
+,, Male,Orthopedic Surgeon,Dr. Donald Rose,8
+,, Male,Surgeon (general),Dr. David Sekons,9
+,, Male,Periodontist (gums),Dr. John Kong,2
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Tae H. Kim,2
+,, Female,Pediatrician,Dr. Parveen T. Khan,3
+,, Male,Ophthalmologist,Dr. Donald A. Morris,2
+,, Female,Psychologist,Dr. Junhong Cao,2
+,, Male,Pediatrician,Dr. Aaron Meislin,3
+,, Male,Pediatrician,Dr. Steven Tsoutsouras,2
+,, Female,Pulmonologist (lungs),Dr. Lynne Quittell,2
+,, Male,Nephrologist (kidney),Dr. Augustus Valmond,2
+,, Male,Family Doctor / G.P.,Dr. Raymond Zakhari,2
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Glenn Jakobsen,2
+,, Female,Surgeon (general),Dr. Tracy-Ann Moo,2
+,, Female,Chiropractor,Dr. Emily T. Kiberd,2
+,, Male,Family Doctor / G.P.,Dr. Michael L. Richter,13
+,, Male,Cardiologist,Dr. Kaman NG,2
+,, Female,Radiologist,Dr. Laura Liberman,2
+,, Male,Dermatologist,Dr. Michael Whitlow,2
+,, Male,Cardiologist,Dr. Lawrence A. Inra,2
+,, Male,Internist / Geriatrician,Dr. Anthony J. Grieco,2
+,, Female,Gynecologist (OBGYN),Dr. Lauren N. Elliston,2
+,, Female,Dermatologist,Dr. Maryann Mikhail,2
+,, Male,Anesthesiologist,Dr. David Rbara Chee,2
+,, Female,Acupuncturist,Dr. Carla Lescano,2
+,, Male,Oncologist / Hematologist,Dr. Charles Zaroulis,2
+,, Female,Internist / Geriatrician,Dr. Veronika Romashova,2
+,, Male,Allergist / Immunologist,Dr. David P. Erstein,2
+,, Male,Cardiologist,Dr. Robert I. Rattiner,2
+,, Male,Psychiatrist,Dr. Barry Reisberg,2
+,, Female,Cardiologist,Dr. Elizabeth C. Muss,3
+,, Male,Surgeon (general),Dr. Asaf A. Gave,4
+,, Male,Urologist,Dr. Michael A. Palese,5
+,, Male,Gastroenterologist,Dr. Jonathan Rosenberg,5
+,, Male,Cardiologist,Dr. Marc A. Nolan,5
+,, Female,Allergist / Immunologist,Dr. Olga Belostotsky,4
+,, Female,Internist / Geriatrician,Dr. Natalya KOZLOVA,6
+,, Male,Nephrologist (kidney),Dr. Andrew B. Covit,5
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Orville D. Palmer,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Kenneth L. Schneider,3
+,, Female,Gynecologist (OBGYN),Dr. Anita Shrivastava,22
+,, Female,Oncologist / Hematologist,Dr. Lisa L. Anderson,10
+,, Male,Neurosurgeon,Dr. Christopher J. Winfree,14
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Gary M. Snyder,5
+,, Male,Urologist,Dr. Jay A. Motola,20
+,, Male,Gastroenterologist,Dr. Barry W. Jaffin,8
+,, Male,Ophthalmologist,Dr. Harry M. Engel,2
+,, Male,Gynecologist (OBGYN),Dr. Lyndon Chang,11
+,, Female,Gynecologist (OBGYN),Dr. Kamila Agayeva,44
+,, Female,Gastroenterologist,Dr. Audrey J. Woolrich,5
+,, Male,Neurologist,Dr. Timothy Vartanian,7
+,, Male,Colorectal Surgeon / Proctologist,Dr. Jason Penzer,4
+,, Male,Oncologist / Hematologist,Dr. Yuman Fong,5
+,, Male,Cardiologist,Dr. Timothy Jayasundera,2
+,, Male,Reproductive Endocrinologist,Dr. Joseph B. Davis,2
+,, Male,"Plastic / Cosmetic Surgeon, Physician","Dr. Thomas Romo, III",2
+,, Male,Ophthalmologist,Dr. Louis Scott Angioletti,4
+,, Male,Gynecologist (OBGYN),Dr. Victor M. Grazi,4
+,, Male,Chiropractor,Dr. Isaac Lichy,2
+,, Male,Surgeon (general),Dr. Bret Taback,2
+,, Male,Vascular Surgeon / Phlebologist,Dr. Darren B. Schneider,2
+,, Male,Urologist,Dr. Harry W. Herr,2
+,, Male,Urologist,Dr. Simon Barkagan,14
+,, Female,Gynecologist (OBGYN),Dr. Jenny J. Tang,17
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Scot Bradley Glasberg,6
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Glenn D. Babus,9
+,, Female,Bariatric / Weight Loss Specialist,Dr. Marina S. Kurian,3
+,, Male,Orthopedic Surgeon,Dr. Frank A. Cordasco,2
+,, Male,Oral Surgeon,Dr. Majid Jamali,2
+,, Male,Orthopedic Surgeon,Dr. Ronald Grelsamer,3
+,, Male,Ophthalmologist,Dr. Wayne S. Fuchs,2
+,, Male,Surgeon (general),Dr. Christopher B. Mills,2
+,, Male,Family Doctor / G.P.,Dr. Alan R. Roth,5
+,, Male,Family Doctor / G.P.,Dr. Housecall Md Ny,2
+,, Male,Neurosurgeon,Dr. Donald O. Quest,4
+,, Male,Oncologist / Hematologist,Dr. Mark M. Moradi,4
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Sarah A. Stackpole,3
+,, Male,Cardiologist,Dr. Ranjit Suri,2
+,, Male,Oncologist / Hematologist,Dr. Clifford A. Hudis,3
+,, Male,Internist / Geriatrician,Dr. Burton Fletcher,3
+,, Male,Dermatologist,Dr. Jerome L. Shupack,10
+,, Male,Internist / Geriatrician,Dr. Ayaz Alwani,4
+,, Male,Family Doctor / G.P.,Dr. Lance I. Austein,8
+,, Female,Psychologist,Dr. Heather Lawson,4
+,, Female,Gynecologist (OBGYN),Dr. Lissa B. Hirsch,4
+,, Male,Gynecologist (OBGYN),Dr. Michael Strongin,2
+,, Male,Infectious Disease Specialist,Dr. Robert A. Press,4
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Michael J. Pitman,6
+,, Male,Endocrinologist,Dr. Dennis Gage,18
+,, Male,Orthopedic Surgeon,Dr. Jeffrey Geller,2
+,, Male,Family Doctor / G.P.,Dr. Emmanuel O. Fashakin,5
+,, Male,Dermatologist,Dr. Adarsh Vijay Mudgil,2
+,, Female,Rheumatologist,Dr. Lisa R. Sammaritano,2
+,, Male,Cardiologist,Dr. Mazen Kamen,5
+,, Male,Oncologist / Hematologist,Dr. Rami K. Daya,5
+,, Female,Reproductive Endocrinologist,Dr. Suzanne Kavic,13
+,, Male,Internist / Geriatrician,Dr. Anthony P. Azar,21
+,, Female,Endocrinologist,Dr. Maria Tulpan,22
+,, Female,Pulmonologist (lungs),Dr. Helen Rouvelas,6
+,, Male,Orthopedic Surgeon,Dr. Mark E. Pruzansky,7
+,, Female,Surgeon (general),Dr. Elisa R. Port,3
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Stephen Bracci,22
+,, Male,Orthopedic Surgeon,Dr. Wallace B. Lehman,5
+,, Male,Internist / Geriatrician,Dr. David Carmichael,5
+,, Male,Cardiologist,Dr. Stanley L. Halprin,3
+,, Male,Cardiologist,Dr. Norman M. Magid,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Hector P. Rodriguez,11
+,, Male,Gastroenterologist,Dr. Michael J. Schmerin,3
+,, Male,Ophthalmologist,Dr. Philip W. Kramer,4
+,, Male,Orthopedic Surgeon,Dr. Ran Schwarzkopf,3
+,, Male,Internist / Geriatrician,Dr. Richard Neufeld,4
+,, Male,Dermatologist,Dr. Darrell S. Rigel,6
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Vandana Kumra,7
+,, Male,Gynecologist (OBGYN),Dr. Richard M. Wind,6
+,, Male,Gynecologist (OBGYN),Dr. Barry Shaktman,17
+,, Female,Gynecologist (OBGYN),Dr. Josine K. Veca,21
+,, Male,Ophthalmologist,Dr. Barry G. Chaiken,2
+,, Male,Emergency Room Doctor,Dr. Robert Glatter,2
+,, Male,Internist / Geriatrician,Dr. Martin I. Baskin,2
+,, Female,Ophthalmologist,Dr. Robin Ginsburg,3
+,, Female,Gynecologist (OBGYN),Dr. Linda M. Nicoll,4
+,, Female,Internist / Geriatrician,Dr. Jessica M. Allan,16
+,, Male,Endocrinologist,Dr. Manfred Blum,6
+,, Male,Dermatologist,Dr. Alvin Adler,9
+,, Female,Podiatrist,Dr. Johanna Youner,7
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Charles Kim,10
+,, Male,Cardiologist,Dr. Jacques P. Merab,5
+,, Male,Ophthalmologist,Dr. Jay M Galst,5
+,, Male,Dermatologist,Dr. Jalong Gann,3
+,, Female,Gynecologist (OBGYN),Dr. Christine M. Sticco,13
+,, Female,Gynecologist (OBGYN),Dr. Maria I. Betancourt,11
+,, Male,Neurologist,Dr. Samuel Rapoport,3
+,, Male,Nephrologist (kidney),Dr. John C. Wang,2
+,, Male,Orthopedic Surgeon,Dr. Sergai N. Delamora,6
+,, Female,Dermatologist,Dr. Jennifer L. Chwalek,6
+,, Female,Ophthalmologist,Dr. Hindola Konrad,8
+,, Male,Orthopedic Surgeon,Dr. STEVEN Glickel,3
+,, Male,Internist / Geriatrician,Dr. George Lowen,2
+,, Male,Cardiologist,Dr. Thomas T. Chen,2
+,, Male,Pain Management Specialist / Physical Therapist,Dr. David M. Bandola,2
+,, Female,Ophthalmologist,Dr. Barbara Ann Barker,3
+,, Male,Internist / Geriatrician,Dr. Brian S. Hoch,2
+,, Male,Neurologist,Dr. Walter Molofsky,2
+,, Male,Emergency Room Doctor,Dr. Ronald L. Stram,12
+,, Female,Internist / Geriatrician,Dr. Monica Altman,7
+,, Male,Gynecologist (OBGYN),Dr. Daniel Saltzman,2
+,, Female,Oncologist / Hematologist,Dr. Samantha Cohen,4
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Michael G. Dempsey,4
+,, Male,Gynecologist (OBGYN),Dr. Robert Porges,3
+,, Male,Endocrinologist,Dr. Edward Merker,27
+,, Male,Orthopedic Surgeon,Dr. Kenneth A. Egol,4
+,, Male,Endocrinologist,Dr. Martin Barandes,39
+,, Male,Orthopedic Surgeon,Dr. Robert I. Meyerson,8
+,, Female,Gynecologist (OBGYN),Dr. Leovina Labot-Rama,11
+,, Female,Psychiatrist,Dr. Ulla K. Laakso,52
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Marc D. Gottlieb,2
+,, Male,Urologist,Dr. Mantu Gupta,7
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Richard A. Gasalberti,4
+,, Male,Pediatrician,Dr. Gheorghe R. Ganea,5
+,, Female,Family Doctor / G.P.,Dr. Caitlin S. Shaffer,4
+,, Male,Cardiothoracic Surgeon,Dr. Newell B. Robinson,3
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Kirsten Boenigk,3
+,, Male,Allergist / Immunologist,Dr. Steven J. Golombek,9
+,, Female,Cardiologist,Dr. Linda L. Tao,6
+,, Male,Neurologist,Dr. Joseph Herbert,10
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Elisabeth A. Lachmann,7
+,, Male,Reproductive Endocrinologist,Dr. Mark V. Sauer,13
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Jonathan R. Moldover,4
+,, Male,Gynecologist (OBGYN),Dr. Pedro R. Segarra,4
+,, Male,Neurologist,Dr. Emile M. Hiesiger,4
+,, Female,Family Doctor / G.P.,Dr. Sandi Aung,2
+,, Female,Gynecologist (OBGYN),Dr. Caryn E. Selick,24
+,, Male,Orthopedic Surgeon,Dr. David S. Pereira,2
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Robert Gotlin,2
+,, Male,Cardiologist,Dr. David Lefkowitz,2
+,, Male,Nephrologist (kidney),Dr. Robert Matalon,2
+,, Male,Neurologist,Dr. Adam N. Bender,5
+,, Male,Gynecologist (OBGYN),Dr. Adam J. Romoff,5
+,, Male,Ophthalmologist,Dr. Christopher T. Coad,5
+,, Male,Gynecologist (OBGYN),Dr. Ioannis Zervoudakis,16
+,, Male,Endocrinologist,Dr. Marvin A. Leder,8
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Michael S. Goldrich,25
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Michael Shohet,3
+,, Male,Podiatrist,Dr. Mark J. Landsman,5
+,, Male,Ophthalmologist,Dr. Richard S. Koplin,3
+,, Male,Orthopedic Surgeon,Dr. Thomas A. Scilaris,3
+,, Male,Cardiothoracic Surgeon,Dr. Mark W. Connolly,3
+,, Male,Emergency Room Doctor,Dr. Doodnauth Hiraman,3
+,, Male,Orthopedic Surgeon,Dr. Donald M. Kastenbaum,20
+,, Female,Psychiatrist,Dr. Sharon S. Packer,34
+,, Female,Neurologist,Dr. Casilda Balmaceda,15
+,, Male,Orthopedic Surgeon,Dr. Frank J. Schwab,7
+,, Male,Dermatologist,Dr. Bruce Heller,42
+,, Male,Orthopedic Surgeon,Dr. Robert Ziets,12
+,, Male,Allergist / Immunologist,Dr. Edward J. Gindi,4
+,, Male,Neurologist,Dr. Roger A. Bonomo,6
+,, Male,Oncologist / Hematologist,Dr. Vincent A. Miller,3
+,, Female,Gynecologist (OBGYN),Dr. Ida E. Schwab,6
+,, Male,Urologist,Dr. Douglas S. Scherr,7
+,, Male,Neurologist,Dr. Stephen Scelsa,9
+,, Female,Gastroenterologist,Dr. Lisa Ganjhu,4
+,, Male,Psychiatrist,Dr. Kenneth W. Wilson,2
+,, Male,Orthopedic Surgeon,Dr. Andrew J. Elliott,5
+,, Male,Pulmonologist (lungs),Dr. Manuel R. Cabrera,3
+,, Male,Cardiologist,Dr. Bradley J. Artel,9
+,, Male,Ophthalmologist,Dr. Raymond Fong,24
+,, Male,Neurosurgeon,Dr. Francis W. Gamache,3
+,, Male,Cardiologist,Dr. Ashish B. Parikh,2
+,, Male,Internist / Geriatrician,Dr. Daniel N. Blum,4
+,, Male,Pediatrician,Dr. Joseph J. Abularrage,25
+,, Female,Internist / Geriatrician,Dr. Deborah Sonenblick,20
+,, Female,Gynecologist (OBGYN),Dr. Susan Rothenberg,6
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Stephen J. Marra,3
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Gregory E. Lutz,3
+,, Male,Gynecologist (OBGYN),Dr. Frank Silverman,3
+,, Male,Internist / Geriatrician,Dr. Stuart I. Finkel,4
+,, Male,Endocrinologist,Dr. Joel Curtis,5
+,, Female,Rheumatologist,Dr. Jenny T. Diep,7
+,, Male,Urologist,Dr. Alex Shteynshlyuger,4
+,, Male,Cardiologist,Dr. Lawrence P. Hecker,4
+,, Male,Urologist,Dr. Hillel Y. Marans,7
+,, Male,Allergist / Immunologist,Dr. Peter Gontzes,2
+,, Male,Urologist,Dr. Alexis Te,4
+,, Female,Internist / Geriatrician,Dr. Lisa Fishman,3
+,, Male,Ophthalmologist,Dr. Floyd Warren,4
+,, Male,Cardiologist,Dr. Joseph S. Vitiello,8
+,, Male,Urologist,Dr. Albert P. Tarasuk,3
+,, Male,Internist / Geriatrician,Dr. Sidney K. Stein,7
+,, Male,Internist / Geriatrician,Dr. Yefim Ornstein,7
+,, Female,Surgeon (general),Dr. Monica Morrow,3
+,, Male,Gastroenterologist,Dr. Thomas L. Fabry,2
+,, Male,Cardiologist,Dr. Robert A. Panebianco,3
+,, Male,Gynecologist (OBGYN),Dr. Kevin B. Reilly,2
+,, Male,Urologist,Dr. Michael Ostad,7
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. William Reisacher,10
+,, Male,Dermatologist,Dr. Philip Orbuch,4
+,, Male,Gynecologist (OBGYN),Dr. Herbert A. Goldfarb,4
+,, Male,Rheumatologist,Dr. STEVEN K. Magid,4
+,, Male,Gastroenterologist,Dr. Premetesh Chattoo,10
+,, Female,Gynecologist (OBGYN),Dr. Shannon Hudson,7
+,, Female,Internist / Geriatrician,Dr. Michelle C. Cajulis,8
+,, Male,Psychiatrist,Dr. Eugenio Tassy,22
+,, Male,Gastroenterologist,Dr. Alvin D. Leb,6
+,, Male,Orthopedic Surgeon,Dr. Michael G. Vitale,4
+,, Male,Dermatologist,Dr. Alan H. Greenspan,7
+,, Male,Ophthalmologist,Dr. Brian J. Herschorn,9
+,, Male,Oncologist / Hematologist,Dr. Howard S. Hochster,4
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Robert D. Kramberg,4
+,, Male,Ophthalmologist,Dr. Peter A. Small,6
+,, Male,Internist / Geriatrician,Dr. Joseph Deblasi,7
+,, Male,Radiologist,Dr. Jay Y. Lee,1
+,, Male,Neurosurgeon,Dr. ANTHONY L. D'Ambrosio,1
+,, Male,Cardiologist,Dr. Yogsing C. Lee,1
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Karan Johar,1
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Eric Lee,1
+,, Male,Endocrinologist,Dr. Josh Tannenbaum,1
+,, Male,Ophthalmologist,Dr. Marcel M. Admoni,1
+,, Male,Neurosurgeon,Dr. Alan D. Hirschfeld,1
+,, Male,Family Doctor / G.P.,Dr. Allen C. Small,2
+,, Male,Radiologist,Dr. Philip M. Meyers,1
+,, Male,Internist / Geriatrician,Dr. Robert H. DeBellis,3
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Harvey Himel,1
+,, Male,Pediatrician,Dr. Marino Torres,1
+,, Male,Neurosurgeon,Dr. Michael Schulder,1
+,, Male,Oral Surgeon,Dr. John D. Ward,1
+,, Male,Cardiologist,Dr. Jerry Gliklich,1
+,, Male,Allergist / Immunologist,Dr. Jeffrey H. Dobken,1
+,, Male,Ophthalmologist,Dr. Andrew E. Gewirtz,1
+,, Female,Neurologist,Dr. Deborah Ronnie Horowitz,1
+,, Male,Reproductive Endocrinologist,Dr. David H. Barad,1
+,, Female,Family Doctor / G.P.,Dr. Anna V. Rozentul,1
+,, Male,Internist / Geriatrician,Dr. Andrew Ganz,1
+,, Female,Dermatologist,Dr. Diana K. Sun,1
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Romeo C. Solon,2
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Malcolm Z. Roth,2
+,, Male,Internist / Geriatrician,Dr. Robert S. Brown,1
+,, Female,Anesthesiologist,Dr. Usha Krishnamurthy,1
+,, Male,Surgeon (general),Dr. Warren Enker,1
+,, Male,Cardiologist,Dr. Adam Deutsch,1
+,, Male,Internist / Geriatrician,Dr. Jonathan B. Shammash,1
+,, Female,Nurse Practitioner,Josephine M. See,1
+,, Male,Oncologist / Hematologist,Dr. John Mascarenhas,1
+,, Male,Oral Surgeon,Dr. Jay M. Neugarten,1
+,, Male,Urologist,Dr. Michael J. Droller,2
+,, Female,Optometrist,Dr. Dori Wolf Kimchy,1
+,, Male,Gastroenterologist,Dr. Robert B. Cooper,1
+,, Male,Pathologist,Dr. Barry Jay Hartman,1
+,, Female,Pediatrician,Dr. Susan A. Daiuto,1
+,, Male,Neurologist,Dr. Carl W. Bazil,1
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Allan A. Levin,1
+,, Male,Oncologist / Hematologist,Dr. Michael M. D'Angelica,2
+,, Male,Cardiologist,Dr. Nicholas B. DuBois,1
+,, Male,Internist / Geriatrician,Dr. Nick Gualtieri,2
+,, Male,Surgeon (general),Dr. John E. Mitchell,1
+,, Male,Orthopedic Surgeon,Dr. Darren J. Friedman,1
+,, Male,Cardiologist,Dr. Jack Beans,1
+,, Male,Radiologist,Dr. Eliezer Halpert,1
+,, Male,Neurosurgeon,Dr. Donato Pacione,1
+,, Female,Ophthalmologist,Dr. Nancy H. Coles,1
+,, Female,Anesthesiologist,Dr. Gliceria Dominguez,1
+,, Male,Orthopedic Surgeon,Dr. Daniel S. Rich,1
+,, Male,Gynecologist (OBGYN),Dr. Ernst G. Bartsich,1
+,, Male,Radiologist,Dr. Robert J. Rosen,1
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Paul R. Beiles,1
+,, Male,Dermatologist,Dr. Ashfaq A. Marghoob,1
+,, Female,Internist / Geriatrician,Dr. Alla Belilovsky,1
+,, Male,Surgeon (general),Dr. Russell Berman,1
+,, Male,Orthopedic Surgeon,Dr. Roy M. Nuzzo,1
+,, Male,Ophthalmologist,Dr. Peter C. Chen,1
+,, Male,Ophthalmologist,Dr. Harvey R. Dobrow,1
+,, Female,Dentist,Dr. Olga Shaposhnikov,1
+,, Male,Internist / Geriatrician,Dr. Jonathan R. Caronia,1
+,, Male,Dermatologist,Dr. Steven Victor,1
+,, Female,Family Doctor / G.P.,Dr. Faika Khan,1
+,, Female,Dermatologist,Dr. Uma Nadiminti,4
+,, Male,Internist / Geriatrician,Dr. Louis A. Katz,1
+,, Male,Infectious Disease Specialist,Dr. David S. Rubin,1
+,, Male,Orthopedic Surgeon,Dr. Wayne Stokes,1
+,, Male,Ophthalmologist,Dr. Seth A. Biser,1
+,, Male,Internist / Geriatrician,Dr. Roberto Zambon,1
+,, Female,Internist / Geriatrician,Dr. Aleksandra Raykher,1
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Alex Moroz,1
+,, Female,Oral Surgeon,Dr. Vasiliki Karlis,1
+,, Male,Neurosurgeon,Dr. Edward S. Connolly,1
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Volkert B. Wreesmann,1
+,, Female,Midwife,Dr. Rani T. Shankar,1
+,, Male,Family Doctor / G.P.,Dr. Henry Wei,1
+,, Male,Internist / Geriatrician,Dr. Jonathan Waitman,2
+,, Male,Internist / Geriatrician,Dr. Gregory F. Dakin,2
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Arnold Komisar,1
+,, Male,Gastroenterologist,Dr. Norman Sohn,4
+,, Male,Psychiatrist,Dr. Manoj SHAH,1
+,, Female,Psychiatrist,Dr. Terry L. Weill,1
+,, Male,Cardiologist,Dr. Michael J. Wolk,1
+,, Female,Vascular Surgeon / Phlebologist,Dr. A. Angela G. Vouyouka,2
+,, Female,Pediatrician,Dr. Ida Rubinshteyn,1
+,, Male,Surgeon (general),Dr. John Chabot,1
+,, Female,Cardiologist,Dr. Gina Larocca,1
+,, Female,Psychiatrist,Dr. Samina Naz,1
+,, Male,Neurologist,Dr. Aaron P. Tansy,2
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Martin E. Kessler,5
+,, Male,Gynecologist (OBGYN),Dr. Lawrence J. Levitan,7
+,, Female,Oncologist / Hematologist,Dr. Rekha Parameswaran,1
+,, Male,Internist / Geriatrician,Dr. Jack Resnick,10
+,, Male,Orthopedic Surgeon,Dr. Benjamin Rosenstadt,5
+,, Male,Surgeon (general),Dr. Enrico Ascher,7
+,, Male,Family Doctor / G.P.,Dr. Martin S. Tesher,5
+,, Male,Neurologist,Dr. Diego J. Herbstein,5
+,, Male,Internist / Geriatrician,Dr. Nathan Levin,3
+,, Male,Internist / Geriatrician,Dr. Bin Wang,3
+,, Male,Orthopedic Surgeon,Dr. Stephen Geiger,3
+,, Male,Cardiologist,Dr. Paul P. Romanello,3
+,, Female,Gynecologist (OBGYN),Dr. Rehana Sajjad,20
+,, Male,Ophthalmologist,Dr. Ilan Cohen,5
+,, Male,Cardiologist,Dr. Howard L. Levitt,5
+,, Male,Neurosurgeon,Dr. Tanvir F. Choudhri,4
+,, Male,Gynecologist (OBGYN),Dr. Sheldoon H. Cherry,1
+,, Male,Cardiologist,Dr. Peter J. Heffer,1
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Jay W. Birnbaum,2
+,, Male,Internist / Geriatrician,Dr. Boris Peysin,1
+,, Male,Cardiologist,Dr. David Woldenberg,2
+,, Female,Dentist,Dr. Vanessa L. Barra,1
+,, Male,Orthopedic Surgeon,Dr. Gregory Di Felice,1
+,, Female,Neurologist,Dr. Geetha Chari,1
+,, Male,Oncologist / Hematologist,Dr. Douglas Wong,4
+,, Male,Nephrologist (kidney),Dr. Choli Hartono,1
+,, Male,Internist / Geriatrician,Dr. Ronald D. Adelman,1
+,, Male,Pulmonologist (lungs),Dr. Byron M. Thomashow,1
+,, Female,Dermatologist,Dr. Dorian L. Gravenese,1
+,, Male,Pediatrician,Dr. Daniel H. Cohen,1
+,, Female,Surgeon (general),Dr. Eva Fischer,3
+,, Male,Dermatologist,Dr. David L. Ramsay,1
+,, Female,Dermatologist,Dr. Bernadette Beyda,1
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. A. Peter Salas,1
+,, Male,Optometrist,Dr. H. Jay Wisnicki,8
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Christopher Szeles,3
+,, Male,Urologist,Dr. Steven B. Brandes,2
+,, Male,Orthopedic Surgeon,Dr. Jeffrey Dermskian,3
+,, Male,Family Doctor / G.P.,Dr. Stanley Yancovitz,8
+,, Male,Neurosurgeon,Dr. Edwin M. Chang,3
+,, Male,Gastroenterologist,Dr. Jeffrey R. Abergel,2
+,, Male,Orthopedic Surgeon,Dr. Dov Kolker,2
+,, Male,Urologist,Dr. Bernard D. Guillonneau,2
+,, Male,Gastroenterologist,Dr. Bradley Conner,2
+,, Male,Internist / Geriatrician,Dr. Michael Felsen,4
+,, Male,Dermatologist,Dr. Neil S. Sadick,12
+,, Female,Family Doctor / G.P.,Dr. Cathleen G. London,27
+,, Male,Orthopedic Surgeon,Dr. Andrew A. Brief,3
+,, Female,Cardiologist,Dr. Lynne A. Glasser,3
+,, Female,Gynecologist (OBGYN),Dr. Man Ling Ngai,19
+,, Male,Psychiatrist,Dr. David S. Goldman,2
+,, Male,Neurologist,Dr. Dmitriy V. Kolesnik,2
+,, Male,Psychiatrist,Dr. Ulrick Vieux,1
+,, Female,Internist / Geriatrician,Dr. Inna I. Inoyatova,1
+,, Male,Internist / Geriatrician,Dr. Paul E. Wiseman,1
+,, Male,Colorectal Surgeon / Proctologist,Dr. Howard I. Tiszenkel,1
+,, Male,Urologist,Dr. Ciril J. Godec,1
+,, Male,Pediatrician,Dr. James Bussel,1
+,, Male,Ophthalmologist,Dr. Nadeem N. Vaidya,1
+,, Male,Ophthalmologist,Dr. Mark Jofe,1
+,, Male,Cardiologist,Dr. Giacomo Buscaino,2
+,, Male,Cardiologist,Dr. Robert A. Vaccarino,1
+,, Male,Internist / Geriatrician,Dr. Samuel H. Friedman,1
+,, Female,Pediatrician,Dr. Signe Larson,2
+,, Female,Rheumatologist,Dr. Joan M. Bathon,1
+,, Male,Neurosurgeon,Dr. Alan Mechanic,1
+,, Male,Gastroenterologist,Dr. Robert P. Lombardo,2
+,, Male,Surgeon (general),Dr. Howard L. Beaton,1
+,, Female,Family Doctor / G.P.,Dr. Beth Gillespie,2
+,, Male,Gynecologist (OBGYN),Dr. Roger Duvivier,1
+,, Female,Anesthesiologist,Dr. Jacqueline Salzer,1
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Eduardo D. Rodriguez,6
+,, Male,Gynecologist (OBGYN),Dr. Frederick A. Gonzalez,5
+,, Female,Gynecologist (OBGYN),Dr. Suzanne M. Greenidge,12
+,, Male,Dermatologist,Dr. Selig Eisenberg,3
+,, Male,Psychiatrist,Dr. Christopher G. Bulgarelli,3
+,, Male,Urologist,Dr. Mark Stein,3
+,, Male,Internist / Geriatrician,Dr. Nisar A. Quraishi,3
+,, Male,Oncologist / Hematologist,Dr. Jason A. Konner,2
+,, Male,Psychiatrist,Dr. David W. Brody,1
+,, Male,Dermatologist,Dr. Michael S. Stotsky,9
+,, Male,Cardiologist,Dr. Mark B. Schiffer,1
+,, Female,Urologist,Dr. Angelish Kumar,1
+,, Male,Nephrologist (kidney),Dr. Frantz M. Duffoo,2
+,, Male,Cardiologist,Dr. Naim Z. Farhat,2
+,, Male,Family Doctor / G.P.,Dr. Salvatore J. Degliuomini,4
+,, Female,Dentist,Dr. Eden W. Wofsey,2
+,, Female,Neurologist,Dr. Maureen S. Cafferty,4
+,, Male,Anesthesiologist,Dr. Ronald Kross,2
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Monica Mehta,6
+,, Male,Urologist,Dr. Aizid I. Hashmat,3
+,, Female,Gynecologist (OBGYN),Dr. Leslie Gruss,9
+,, Female,Internist / Geriatrician,Dr. Manisha Kulshreshtha,1
+,, Female,Gynecologist (OBGYN),Dr. RAUFA G. Faroqui,14
+,, Male,Internist / Geriatrician,Dr. Aslam A. Jivani,1
+,, Male,Orthopedic Surgeon,Dr. Daveed D. Frazier,1
+,, Male,Cardiologist,Dr. Stuart Okin,1
+,, Male,Ophthalmologist,Dr. Steven Rosenberg,1
+,, Male,Internist / Geriatrician,Dr. Robert Bernot,1
+,, Male,Internist / Geriatrician,Dr. Hak K. Yuen,1
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Gerald D. Ginsberg,3
+,, Male,Orthopedic Surgeon,Dr. Elias Kassapidis,11
+,, Female,Pediatrician,Dr. Niloufar Gidfar,2
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Seth A. Waldman,2
+,, Male,Orthopedic Surgeon,Dr. Alvin BREGMAN,1
+,, Male,Reproductive Endocrinologist,Dr. Glenn L. Schattman,1
+,, Male,Endocrinologist,Dr. Michael Rosenbaum,1
+,, Male,Oncologist / Hematologist,Dr. THOMAS Caputo,1
+,, Male,Cardiologist,Dr. Steve C. Tam,2
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Darius Kohan,2
+,, Male,Cardiologist,Dr. Bruce D. Charash,2
+,, Male,Internist / Geriatrician,Dr. Allen J. Bennett,2
+,, Male,Urologist,Dr. Marcus H. Loo,3
+,, Female,Pediatrician,Dr. Natela LEVI,3
+,, Male,Ophthalmologist,Dr. Richard Najac,6
+,, Male,Internist / Geriatrician,Dr. Elliot C. Lederman,4
+,, Male,Anesthesiologist,Dr. Paul S. Hendrickson,2
+,, Female,Family Doctor / G.P.,Dr. Irene Shapiro,6
+,, Male,Cardiologist,Dr. Michael J. Domanski,3
+,, Female,Internist / Geriatrician,Dr. Alexandra Etkin,10
+,, Male,Neurologist,Dr. Rajeev S. Motiwala,3
+,, Female,Dermatologist,Dr. Rena S. Brand,19
+,, Female,Gynecologist (OBGYN),Dr. Nikole A. Ostrov,3
+,, Male,Dermatologist,Dr. Anthony C. Parris,9
+,, Male,Ophthalmologist,Dr. Kenneth J. Wald,6
+,, Male,Surgeon (general),Dr. Michael Reich,7
+,, Male,Dermatologist,Dr. Pinkas E. Lebovits,5
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Daniel I. Branovan,7
+,, Female,Pediatrician,Dr. Camille Senzamici,1
+,, Male,Internist / Geriatrician,Dr. Thomas I. Lecher,1
+,, Male,Family Doctor / G.P.,Dr. Peter K. Stevens,1
+,, Male,Dermatologist,Dr. Carl Solowey,3
+,, Female,Internist / Geriatrician,Dr. Sandra Hall-Ross,4
+,, Male,Orthopedic Surgeon,Dr. Ajoy K. Sinha,4
+,, Male,Urologist,Dr. Eli F. Lizza,3
+,, Male,Endocrinologist,Dr. Theodore W. AvRuskin,2
+,, Male,Orthopedic Surgeon,Dr. Andrew L. Rosen,2
+,, Male,Cardiologist,Dr. Aubrey C. Galloway,2
+,, Female,Gynecologist (OBGYN),Dr. Suzanne I. Yale,7
+,, Male,Orthopedic Surgeon,Dr. Steven Sclafani,5
+,, Male,Oncologist / Hematologist,Dr. James M. Vogel,2
+,, Male,Pediatrician,Dr. Karl Neumann,2
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Noel L. Cohen,2
+,, Male,Gynecologist (OBGYN),Dr. Richard Berkowitz,4
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Abraham Shulman,1
+,, Male,Oncologist / Hematologist,Dr. Ronald Scheff,1
+,, Female,Surgeon (general),Dr. Mary S. Brady,1
+,, Male,Orthopedic Surgeon,Dr. Mark J. Klion,2
+,, Female,Gynecologist (OBGYN),Dr. Jaqueline Worth,5
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. John G. Hunter,5
+,, Male,Internist / Geriatrician,Dr. Louis J. Aronne,3
+,, Male,Family Doctor / G.P.,Dr. Carl J. Franzetti,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Stephen Warman,2
+,, Male,Surgeon (general),Dr. Philip S. Barie,4
+,, Male,Oncologist / Hematologist,Dr. Alan B Astrow,5
+,, Male,Oncologist / Hematologist,Dr. Seth Cohen,3
+,, Male,Gastroenterologist,Dr. Anthony P. Chan,8
+,, Male,Dermatologist,Dr. Dmitry Khasak,15
+,, Female,Gynecologist (OBGYN),Dr. Teresa Cuadra,2
+,, Female,Neurologist,Dr. Yvonne Zaharakis,2
+,, Male,Pathologist,Dr. Jordan B. Glaser,6
+,, Female,Ophthalmologist,Dr. Deborah Rosenthal,4
+,, Female,Family Doctor / G.P.,Dr. Belinda Johnston-Briggs,2
+,, Male,Oncologist / Hematologist,Dr. Alexander Aledo,3
+,, Male,Internist / Geriatrician,Dr. Lawrence A. Higgins,3
+,, Male,Gastroenterologist,Dr. Samuel Cho,1
+,, Male,Allergist / Immunologist,Dr. Stuart H Young,1
+,, Male,Cardiologist,Dr. Tamas Pereyni,1
+,, Male,Dermatologist,Dr. Dennis M. Brustein,6
+,, Male,Internist / Geriatrician,Dr. Robert Cucco,7
+,, Male,Oncologist / Hematologist,Dr. Michael P. Osborne,1
+,, Male,Neurologist,Dr. Jeffrey Cohen,4
+,, Male,Orthopedic Surgeon,Dr. Steven Touliopoulos,3
+,, Male,Internist / Geriatrician,Dr. Ali Vafa,1
+,, Female,Allergist / Immunologist,Dr. Mariana Marcu,3
+,, Female,Internist / Geriatrician,Dr. Lucille L. Pak,3
+,, Male,Internist / Geriatrician,Dr. Ja G. Kang,1
+,, Female,Oncologist / Hematologist,Dr. Seetha R. Murukutla,1
+,, Male,Dermatologist,Dr. Robert Auerbach,1
+,, Female,Psychiatrist,Dr. Lori Simon,1
+,, Male,Oncologist / Hematologist,Dr. Raymond D. Pastore,1
+,, Male,Ophthalmologist,Dr. John A. Seedor,4
+,, Male,Ophthalmologist,Dr. Alan J. Friedman,1
+,, Male,Internist / Geriatrician,Dr. Ritesh Kalra,1
+,, Male,Internist / Geriatrician,Dr. Henry S. Singman,1
+,, Female,Psychiatrist,Dr. Ann S. Maloney,3
+,, Male,Ophthalmologist,Dr. Spencer E. Sherman,3
+,, Female,Gynecologist (OBGYN),Dr. Adina Rosenzveig,1
+,, Male,Urologist,Dr. Howard N. Kivell,1
+,, Male,Ophthalmologist,Dr. Gaetano Barile,1
+,, Female,Psychologist,Dr. Abigail Merin,2
+,, Female,Dermatologist,Dr. Catherine Orentreich,1
+,, Female,Neurologist,Dr. Marina Neystat,2
+,, Male,Orthopedic Surgeon,Dr. Giles Scuderi,2
+,, Female,Internist / Geriatrician,Dr. Isabella R. Peluso,3
+,, Male,Cardiothoracic Surgeon,Dr. Robert J. Downey,2
+,, Female,Pediatrician,Dr. Brigitte Newman,1
+,, Male,Ophthalmologist,Dr. Norman B. Medow,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Philip Zetterstrandt,1
+,, Male,Cardiologist,Dr. George D. Dangas,1
+,, Male,Orthopedic Surgeon,Dr. Kenneth E. Seslowe,1
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Pi-Tang Lin,2
+,, Female,Allergist / Immunologist,Dr. Rosalinda Rubinstein,2
+,, Male,Surgeon (general),Dr. Mark S. Adkins,2
+,, Male,Podiatrist,Dr. Frederick R. Brookman,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Ronald A. Hoffman,2
+,, Male,Cardiologist,Dr. Fred Fefer,1
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Norman H. Schulman,1
+,, Male,Radiologist,Dr. Ashwatha Narayana,1
+,, Male,Allergist / Immunologist,Dr. Martin S. Pine,1
+,, Male,Oncologist / Hematologist,Dr. Bryan Schneider,1
+,, Male,Internist / Geriatrician,Dr. Roman Y. Royzman,1
+,, Male,Internist / Geriatrician,Dr. Harvey Klein,2
+,, Male,Dermatologist,Dr. Medwin M. Mintzis,2
+,, Male,Ophthalmologist,Dr. George Howard,1
+,, Male,Rheumatologist,Dr. Mark A. Eberle,1
+,, Male,Surgeon (general),Dr. Robert T. Grant,1
+,, Male,Internist / Geriatrician,Dr. Aziz Ahmad,1
+,, Female,Family Doctor / G.P.,Dr. Audrey Hoover,1
+,, Female,Pediatrician,Dr. Nancy Shevell,1
+,, Male,Cardiologist,Dr. Ira S. Blaufarb,1
+,, Male,Internist / Geriatrician,Dr. Norman N. Lee,1
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Andrew D. Brown,1
+,, Male,Gastroenterologist,Dr. Robert C. Kurtz,1
+,, Male,Internist / Geriatrician,Dr. Raymond Jones,1
+,, Female,Gastroenterologist,Dr. Eva Urtasun Sotil,1
+,, Male,Internist / Geriatrician,Dr. Diego Escobar,1
+,, Male,Gynecologist (OBGYN),Dr. Jack Maidman,2
+,, Male,Internist / Geriatrician,Dr. Matthew A. Berger,1
+,, Male,Gastroenterologist,Dr. ROBERT D. Pfeffer,4
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Victor M. Lagmay,2
+,, Male,Ophthalmologist,Dr. Paul A. Sidoti,1
+,, Female,Ophthalmologist,Dr. Niel J. Squillante,1
+,, Female,Psychologist,Dr. Deborah Haller,1
+,, Male,Cardiologist,Dr. Joshua A. Socolow,3
+,, Male,Surgeon (general),Dr. Juan Delrio Martin,1
+,, Male,Pathologist,Dr. Michael Giordano,1
+,, Male,Allergist / Immunologist,Dr. James M. Rubin,1
+,, Female,Dermatologist,Dr. Mary Elen Brademas,1
+,, Female,Psychiatrist,Dr. Karen Hopenwasser,2
+,, Male,Pediatrician,Dr. George M. Lazarus,1
+,, Female,Emergency Room Doctor,Dr. Saadia Akhtar,1
+,, Male,Gynecologist (OBGYN),Dr. David James,2
+,, Male,Gastroenterologist,Dr. Miguel A. Cintron,1
+,, Male,Cardiologist,Dr. John T. Hsueh,1
+,, Female,Emergency Room Doctor,Dr. Monica M. McMillan,1
+,, Male,Family Doctor / G.P.,Dr. George C. Fisher,4
+,, Male,Cardiologist,Dr. Charles Traube,2
+,, Male,Internist / Geriatrician,Dr. Bertram Bernstein,1
+,, Female,Pediatrician,Dr. Eva M. Desrosiers,1
+,, Male,Endocrinologist,Dr. David K. Sirota,1
+,, Male,Oncologist / Hematologist,Dr. Hyun Taik Cho,1
+,, Female,Pediatrician,Dr. Miriam Medero-Eng,2
+,, Female,Internist / Geriatrician,Dr. Rachel T. Moresky,1
+,, Male,Pediatrician,Dr. Jose M. Villarin,1
+,, Male,Pediatrician,Dr. Angel Aguilera,1
+,, Male,Internist / Geriatrician,Dr. Bienvenido Fajardo,3
+,, Male,Psychiatrist,Dr. Pankaj R. Patel,2
+,, Female,Internist / Geriatrician,Dr. Helen Zaltsman,1
+,, Male,Ophthalmologist,Dr. Arnold J. Stein,1
+,, Female,Reproductive Endocrinologist,Dr. Maureen O. Moomjy,2
+,, Male,Ophthalmologist,Dr. Steven I. Sherman,2
+,, Male,Psychiatrist,Dr. Keith S. Ditkowsky,1
+,, Male,Neurologist,Dr. James Golomb,1
+,, Female,Neurologist,Dr. Rose K. Lai,1
+,, Female,Internist / Geriatrician,Dr. Aneela A. Bidiwala,1
+,, Male,Dermatologist,Dr. Melvin Gelfarb,1
+,, Male,Podiatrist,Dr. Lloyed A. Bardfeld,1
+,, Male,Radiologist,Dr. D. David Dershaw,1
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Andrew T. Cheng,1
+,, Male,Podiatrist,Dr. John E. Mancuso,1
+,, Male,Vascular Surgeon / Phlebologist,Dr. Alan P. Zeitlin,1
+,, Male,Urologist,Dr. Mark A. Respler,1
+,, Male,Internist / Geriatrician,Dr. Robert A. Manaro,1
+,, Male,Internist / Geriatrician,Dr. Albert Levy,1
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Michael D. Katz,1
+,, Male,Internist / Geriatrician,Dr. Inderpal S. Chhabra,1
+,, Male,Psychiatrist,Dr. Michael Grin,1
+,, Male,Ophthalmologist,Dr. Kenneth R. Cohen,1
+,, Male,Orthopedic Surgeon,Dr. Maxim Tyorkin,1
+,, Male,Urologist,Dr. Sheldon B. Pike,1
+,, Male,Optometrist,Dr. Scott Greenbaum,1
+,, Male,Emergency Room Doctor,Dr. Jay H. Reich,2
+,, Male,Gastroenterologist,Dr. Michael S. Ader,1
+,, Male,Dermatologist,Dr. Allan C. Halpern,2
+,, Male,Gynecologist (OBGYN),Dr. Martin R. Post,35
+,, Female,Nurse Practitioner,Danielle L. Deans,4
+,, Male,Urologist,Dr. Himansh Khanna,11
+,, Male,Cardiologist,Dr. Abiola Dele-Michael,1
+,, Female,Nurse Practitioner,Kathleen Leary,1
+,, Male,Orthodontist,Dr. Ankush A. Khanna,4
+,, Female,Psychologist,Dr. Dawn I. Learsy,353
+,, Male,Internist / Geriatrician,Dr. Vladimir M. Kozhinskiy,13
+,, Male,Ophthalmologist,Dr. Robert R. Strome,1
+,, Female,Podiatrist,Dr. Christine Kudla,17
+,, Female,Internist / Geriatrician,Dr. Nandini U. Yadav,12
+,, Female,Allergist / Immunologist,Dr. Carol G. Baum,5
+,, Male,Gynecologist (OBGYN),Dr. Arthur Miller,35
+,, Male,Dermatologist,Dr. Robert J. Friedman,19
+,, Male,Psychiatrist,Dr. Alfred Wiener,46
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Raymond L. Chai,1
+,, Male,Neurologist,Dr. Ronald G. EMERSON,20
+,, Male,Family Doctor / G.P.,Dr. Gabriel Guardarramas,14
+,, Female,Gynecologist (OBGYN),Dr. Hasi Das,35
+,, Male,Neurologist,Dr. Jerome M. Block,20
+,, Male,Geneticist,Dr. John Pappas,3
+,, Male,Internist / Geriatrician,Dr. Michael Tavdy,12
+,, Male,Emergency Room Doctor,Dr. Brian Blaufeux,7
+,, Female,Pediatrician,Dr. Flor S. De La Cadena,13
+,, Male,Gynecologist (OBGYN),Dr. Arthur C. Fougner,35
+,, Female,Psychiatrist,Dr. Ann Turkel,18
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Ifeoma M. Okoronkwo,99
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Roberta F. Shapiro,20
+,, Male,Radiologist,Dr. Jay S. Cooper,1
+,, Male,Surgeon (general),Dr. Gordon D. Lutchman,14
+,, Female,Cardiologist,Dr. Jennifer Mieres,5
+,, Male,Ophthalmologist,Dr. Harvey Lincoff,14
+,, Male,Internist / Geriatrician,Dr. Sang Kan,13
+,, Female,Emergency Room Doctor,Dr. Lorraine Giordano,7
+,, Male,Cardiologist,Dr. John W. Shuck,4
+,, Female,Anesthesiologist,Dr. Tova R. Sebaoun,3
+,, Male,Ophthalmologist,Dr. Jeffrey F. Zwerling,14
+,, Male,Ophthalmologist,Dr. Sanjeev Nath,14
+,, Male,Internist / Geriatrician,Dr. Michael N. Greenblatt,13
+,, Male,Dermatologist,Dr. Donald Rudikoff,19
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Nira A. Goldstein,1
+,, Male,Anesthesiologist,Dr. Mohan R. Obilisundar,3
+,, Male,Psychiatrist,Dr. Robert DICKER,18
+,, Male,Gynecologist (OBGYN),Dr. Victor Douek,35
+,, Female,Internist / Geriatrician,Dr. Maria Z. Yuvienco,13
+,, Male,Psychiatrist,Dr. Eli Einbinder,46
+,, Male,Dentist,Dr. Marvin Brody,17
+,, Male,Psychiatrist,Dr. Andre Azemar,18
+,, Male,Urologist,Dr. Steven Berman,11
+,, Male,Ophthalmologist,Dr. Robert Schwarcz,14
+,, Male,Internist / Geriatrician,Dr. Steven I. Rapaport,13
+,, Male,Emergency Room Doctor,Dr. Ilan L. Cohen,7
+,, Male,Radiologist,Dr. Jeffrey Gunzenhauser,1
+,, Male,Internist / Geriatrician,Dr. John Culmine,13
+,, Male,Internist / Geriatrician,Dr. Vladimir Kirkorov,10
+,, Male,Internist / Geriatrician,Dr. Brian Koll,13
+,, Male,Ophthalmologist,Dr. Gary S. Chubak,14
+,, Female,Internist / Geriatrician,Dr. Joyce F. Fogel,13
+,, Male,Ophthalmologist,Dr. Elliott M. Feinman,14
+,, Male,Cardiologist,Dr. George Bear,5
+,, Male,Oncologist / Hematologist,Dr. Rudy A. Segna,19
+,, Male,Psychiatrist,Dr. Paul W. Nassar,46
+,, Male,Pain Management Specialist / Physical Therapist,Dr. WILLIAM Green,99
+,, Male,Neurosurgeon,Dr. Yves P. Gobin,24
+,, Male,Oncologist / Hematologist,Dr. Paul Gliedman,19
+,, Male,Pediatrician,Dr. Kendall Jenkins,13
+,, Male,Oncologist / Hematologist,Dr. David G. Savage,19
+,, Male,Radiologist,Dr. Ajax E. George,3
+,, Female,Cardiologist,Dr. Donna A. Ingram,5
+,, Male,Psychiatrist,Dr. David W. Preven,1
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Richard A. Lebowitz,1
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Rosemary B. Desloge,1
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. John D. Bonanno,57
+,, Male,Internist / Geriatrician,Dr. Naser E. Yazigi,13
+,, Female,Orthodontist,Dr. Tanya Vaysman,4
+,, Female,Psychiatrist,Dr. Virginia A. Sadock,17
+,, Male,Ophthalmologist,Dr. ROBERT F. Rothman,3
+,, Male,Gynecologist (OBGYN),Dr. Anthony A. Clemendor,35
+,, Female,Psychiatrist,Dr. Nora Smith,17
+,, Male,Psychiatrist,Dr. Charles A. Shamoian,41
+,, Female,Gynecologist (OBGYN),Dr. Olivia Lermand,35
+,, Male,Anesthesiologist,Dr. George G. Neuman,3
+,, Male,Ophthalmologist,Dr. Glenn R. Silbert,2
+,, Male,Cardiothoracic Surgeon,Dr. Mario F. Sabado,4
+,, Male,Dermatologist,Dr. Bijan Safai,19
+,, Male,Neurosurgeon,Dr. Mark H. Bilsky,24
+,, Male,Emergency Room Doctor,Dr. Philip J. Klapper,7
+,, Male,Neurologist,Dr. ROBERT Aiken,20
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Gregory Trakhtenberg,99
+,, Male,Neurologist,Dr. RAJESH Bhatnagar,20
+,, Male,Oncologist / Hematologist,Dr. James Speyer,19
+,, Male,Ophthalmologist,Dr. Donald D'Amico,14
+,, Male,Neurologist,Dr. Timothy A. Pedley,20
+,, Male,Internist / Geriatrician,Dr. Samuel A. Wilson,13
+,, Male,Ophthalmologist,Dr. Stephen A. Teich,14
+,, Male,Emergency Room Doctor,Dr. Dennis M. Greenbaum,7
+,, Female,Gynecologist (OBGYN),Dr. Christina Matera,35
+,, Male,Surgeon (general),Dr. Yun Hsu,14
+,, Male,Psychiatrist,Dr. Benjamin B. Cheney,46
+,, Male,Dermatologist,Dr. Paul Kechijian,19
+,, Male,Psychiatrist,Dr. Alfred Fiad,17
+,, Male,Internist / Geriatrician,Dr. Alan A. Bober,13
+,, Male,Anesthesiologist,Dr. Lemonier Verdier,3
+,, Female,Ophthalmologist,Dr. Iris R. Slater,14
+,, Male,Allergist / Immunologist,Dr. Richard A. Kolchin,2
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. John Layliev,134
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Joseph C. Hung,20
+,, Male,Dermatologist,Dr. Brendan Camp,19
+,, Female,Internist / Geriatrician,Dr. Miriam R. Raport,12
+,, Male,Podiatrist,Dr. Jarret Drucker,17
+,, Male,Chiropractor,Dr. Clayton J. Blanchette,3
+,, Male,Ophthalmologist,Dr. Frederic Deutsch,14
+,, Male,Pulmonologist (lungs),Dr. Justin I. Weiner,4
+,, Female,Pediatrician,Dr. Rita G. Harper,13
+,, Female,Optometrist,Dr. Andrea Del Corro,1
+,, Male,Psychiatrist,Dr. Lincoln C. Bickford,46
+,, Female,Internist / Geriatrician,Dr. Bevin E. Hearn,4
+,, Male,Pediatrician,Dr. Michael I. Cohen,13
+,, Male,Internist / Geriatrician,Dr. Cecil S. Kim,13
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Helen S. Colen,253
+,, Female,Cardiologist,Dr. Mindy Markowitz,5
+,, Female,Endocrinologist,Dr. Maria Paliou,10
+,, Female,Surgeon (general),Dr. Ann Rogers,14
+,, Female,Family Doctor / G.P.,Dr. Leticia R. Gonzalez,1
+,, Female,Radiologist,Dr. Jacqueline A. Bello,3
+,, Male,Neurosurgeon,Dr. Jeffrey Wisoff,24
+,, Female,Orthodontist,Dr. Katherine E. Park,4
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Francine G. Moshkovski,2
+,, Male,Cardiologist,Dr. Chad Kliger,5
+,, Male,Neurologist,Dr. Jerome Posner,20
+,, Male,Cardiologist,Dr. Marshall I. Matos,2
+,, Female,Cardiologist,Dr. Norma M. Keller,5
+,, Female,Pediatrician,Dr. Marie V. Sanford,13
+,, Male,Dermatologist,Dr. Charles L. Halasz,19
+,, Female,Oncologist / Hematologist,Dr. Yelena Novik,19
+,, Female,Pediatrician,Dr. Carole E. Gervais,13
+,, Male,Neurologist,Dr. Guoping Zhou,20
+,, Male,Orthodontist,Dr. Howard Kaufman,4
+,, Female,Family Doctor / G.P.,Dr. Sandra M. Gutierrez,1
+,, Male,Cardiologist,Dr. Blase A. Carabello,6
+,, Male,Internist / Geriatrician,Dr. Arthur Lindner,12
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Krishnamurthi Sundaram,1
+,, Male,Urologist,Dr. William Etra,11
+,, Female,Psychiatrist,Dr. Yelena Mamedova Braz,46
+,, Female,Neurologist,Dr. Ling O. Cheng,20
+,, Male,Gynecologist (OBGYN),Dr. Jordan Frigerio,35
+,, Male,Anesthesiologist,Dr. Levon M. Capan,3
+,, Male,Anesthesiologist,Dr. Sanford Miller,3
+,, Male,Ophthalmologist,Dr. Rainer N. Mittl,14
+,, Male,Radiologist,Dr. Barry S. Leitman,3
+,, Male,Ophthalmologist,Dr. Robert S. Amelkin,14
+,, Male,Ophthalmologist,Dr. Eric Pearlstein,14
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Rodica Alexandrescu,99
+,, Male,Rheumatologist,Dr. Moro O. Salifu,6
+,, Male,Neurologist,Dr. Richard B. Lipton,20
+,, Male,Psychiatrist,Dr. Nicolas Du Mont,46
+,, Female,Pediatrician,Dr. YOOJIN Kim,13
+,, Male,Pediatrician,Dr. Elihu L. Sussman,13
+,, Female,Pediatrician,Dr. Lillian I. Diaz,30
+,, Male,Pediatrician,Dr. David L. Hurwitz,13
+,, Male,Allergist / Immunologist,Dr. Arye Rubinstein,5
+,, Male,Ophthalmologist,Dr. Heskel Haddad,14
+,, Male,Pathologist,Dr. Abdul Mannan,1
+,, Male,Pulmonologist (lungs),Dr. David Posner,10
+,, Male,Pulmonologist (lungs),Dr. Lawrence Scharer,10
+,, Female,Oncologist / Hematologist,Dr. Beth Popp,19
+,, Female,Internist / Geriatrician,Dr. Salwa Gerges,12
+,, Female,Oncologist / Hematologist,Dr. Annmarie Beddoe,19
+,, Male,Internist / Geriatrician,Dr. Thomas K. Chan,12
+,, Male,Oncologist / Hematologist,Dr. Avi Barbasch,19
+,, Male,Internist / Geriatrician,Dr. Frank Colella,12
+,, Female,Psychiatrist,Dr. Carol J. Weiss,46
+,, Male,Psychiatrist,Dr. Anthony Tranguch,46
+,, Male,Psychiatrist,Dr. Herbert A. Fox,18
+,, Female,Psychiatrist,Dr. Sandra K. Cohen,46
+,, Male,Radiologist,Dr. Robert D. Zimmerman,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Frank E. Lucente,1
+,, Male,Nephrologist (kidney),Dr. Barry M. Wilkes,2
+,, Female,Dermatologist,Dr. Harriet Harris,19
+,, Male,Neurologist,Dr. Yevgeny Azrieli,20
+,, Male,Internist / Geriatrician,Dr. Laszlo A. Feher,12
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Dmitry Shestakovsky,99
+,, Female,Internist / Geriatrician,Dr. Ida Bronfman,12
+,, Male,Anesthesiologist,Dr. Paul H. Dalecki,3
+,, Female,Gynecologist (OBGYN),Dr. Swapna Nalgonda,35
+,, Female,Nurse Practitioner,Dina Bolden,1
+,, Female,Ophthalmologist,Dr. Elsa M. Raskin,14
+,, Male,Radiologist,Dr. Mark D. Novick,3
+,, Male,Gynecologist (OBGYN),Dr. Charles H. Debrovner,35
+,, Male,Cardiothoracic Surgeon,Dr. Adam E. Saltman,4
+,, Female,Psychiatrist,Dr. Lisa Bogdonoff,46
+,, Male,Psychiatrist,Dr. Arthur M. Small,46
+,, Male,Pediatrician,Dr. Wen Chen,13
+,, Female,Reproductive Endocrinologist,Dr. Lisa Kump,10
+,, Female,Gynecologist (OBGYN),Dr. Deborah White,35
+,, Male,Dermatologist,Dr. Robert P. Feinstein,19
+,, Male,Dentist,Dr. Michael D. Kosdon,17
+,, Male,Orthopedic Surgeon,Dr. John L'Insalata,60
+,, Male,Pathologist,Dr. Andre Moreira,1
+,, Male,Neurologist,Dr. James K. Roberts,20
+,, Female,Dermatologist,Dr. Lenora I. Felderman,19
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Paul Weiss,9
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Mark P. Bodack,99
+,, Male,Gynecologist (OBGYN),Dr. Ashwin Jadhav,35
+,, Female,Pediatrician,Dr. Christina Valsamis,1
+,, Male,Radiologist,Dr. Joseph Lowry,3
+,, Male,Dermatologist,Dr. Hirshel Kahn,19
+,, Male,Ophthalmologist,Dr. Edward Marcus,1
+,, Female,Psychologist,Dr. Julie Kupfer,23
+,, Female,Periodontist (gums),Dr. Dara Lee,470
+,, Male,Pediatrician,Dr. Srikanth R. Ambati,3
+,, Female,Optometrist,Dr. Hadassa L. Rutman,44
+,, Male,Cardiologist,Dr. IRA Nash,5
+,, Female,Cardiologist,Dr. Danielle M. Nicolo,5
+,, Male,Dentist,Dr. Arnold Fischler,17
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Roger Rose,1
+,, Female,Internist / Geriatrician,Dr. Beth A. Moore,19
+,, Female,Internist / Geriatrician,Dr. Inna Pildysh,12
+,, Male,Orthopedic Surgeon,Dr. Paul J. Ort,17
+,, Male,Internist / Geriatrician,Dr. Franklin B. Chiao,14
+,, Male,Radiologist,Dr. David M. Rogers,1
+,, Male,Surgeon (general),Dr. Ira Friedman,14
+,, Male,Surgeon (general),Dr. ROBERT J. Kurtz,14
+,, Male,Cardiothoracic Surgeon,Dr. Darryl Hoffman,4
+,, Female,Radiologist,Dr. Marcy B. Jagust,21
+,, Male,Cardiologist,Dr. Richard I. Levin,5
+,, Male,Cardiologist,Dr. Suneet Mittal,5
+,, Female,Cardiologist,Dr. Sabrina Wilbur,5
+,, Male,Cardiologist,Dr. Michael N. Infantino,5
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Paul S. Striker,15
+,, Female,Orthopedic Surgeon,Dr. Susan C. Scott,17
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Josephine Z. Huang,99
+,, Male,Radiologist,Dr. Bruce C. Zablow,1
+,, Male,Psychiatrist,Dr. Joshua A. Berman,41
+,, Male,Radiologist,Dr. Steven Shankman,3
+,, Male,Radiologist,Dr. Andrew W. Litt,3
+,, Female,Psychiatrist,Dr. Jennifer M. Finkel,18
+,, Male,Vascular Surgeon / Phlebologist,Dr. James W. Turner,1
+,, Female,Oncologist / Hematologist,Dr. Elizabeth M. Calleja,19
+,, Male,Oncologist / Hematologist,Dr. Joshua N. Halpern,19
+,, Male,Surgeon (general),Dr. Fredric Weinbaum,14
+,, Male,Neurosurgeon,Dr. HOWARD Weiner,24
+,, Male,Gynecologist (OBGYN),Dr. Mudar Dalloul,35
+,, Male,Oncologist / Hematologist,Dr. Lee Shechtman,19
+,, Male,Internist / Geriatrician,Dr. Benzion Sacolick,12
+,, Male,Emergency Room Doctor,Dr. Winston O. Makanju,7
+,, Male,Emergency Room Doctor,Dr. Robert S. Crupi,7
+,, Female,Psychiatrist,Dr. Barbara Farkas,18
+,, Male,Cardiologist,Dr. Chatla V. Reddy,5
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Gary Alter,134
+,, Male,Internist / Geriatrician,Dr. John T. Flynn,12
+,, Male,Pediatrician,Dr. Richard K. Stone,13
+,, Female,Optometrist,Dr. Adonya Blair,2
+,, Female,Internist / Geriatrician,Dr. Yuping Chen,12
+,, Male,Anesthesiologist,Dr. Dariusz T. Nobis,3
+,, Male,Orthopedic Surgeon,Dr. William G. Hamilton,60
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Harris S. Hausen,20
+,, Male,Cardiologist,Dr. Alejandro Torres,5
+,, Male,Ophthalmologist,Dr. Harvey Rosenblum,14
+,, Male,Dermatologist,Dr. Jeffrey L. Marx,19
+,, Male,Internist / Geriatrician,Dr. Anthony A. Laucella,12
+,, Male,Anesthesiologist,Dr. Robert C. Goldstein,1
+,, Male,Surgeon (general),Dr. Walter J. Hodgson,8
+,, Male,Radiologist,Dr. Roy A. Holliday,3
+,, Male,Emergency Room Doctor,Dr. Daniel Y. Chu,1
+,, Male,Radiologist,Dr. Shlomo Topchik,3
+,, Male,Anesthesiologist,Dr. John J. Savarese,3
+,, Male,Cardiologist,Dr. Timothy G. Jayasundera,5
+,, Male,Vascular Surgeon / Phlebologist,Dr. Alexander Gart,1
+,, Male,Emergency Room Doctor,Dr. Peter C. Wyer,7
+,, Male,Radiologist,Dr. Robert S. Nuba,4
+,, Female,Anesthesiologist,Dr. Sharda K. Dave,3
+,, Male,Dentist,Dr. Robert M. SORIN,17
+,, Female,Ophthalmologist,Dr. Jeanne L. Rosenthal,14
+,, Female,Internist / Geriatrician,Dr. Ruth Kleinman,12
+,, Male,Radiologist,Dr. Leonard Berliner,3
+,, Male,Cardiologist,Dr. Nan-Ning S. Chang,5
+,, Male,Cardiologist,Dr. Frank M. Iacovone,1
+,, Male,Internist / Geriatrician,Dr. Angel L. Rodriguez,12
+,, Male,Dentist,Dr. Bernard Turchiano,17
+,, Male,Gynecologist (OBGYN),Dr. Neal Sherman,35
+,, Male,Neurosurgeon,Dr. Jack Stern,24
+,, Female,Nephrologist (kidney),Dr. Maria V. Devita,2
+,, Female,Nephrologist (kidney),Dr. Gail N. Frumkin,2
+,, Male,Internist / Geriatrician,Dr. Perry Pong,12
+,, Male,Neurologist,Dr. Donald E. Wishnow,20
+,, Male,Podiatrist,Dr. Michael Genkin,17
+,, Female,Pediatrician,Dr. Deepti Patel,6
+,, Male,Internist / Geriatrician,Dr. Brandon Varr,3
+,, Male,Pediatrician,Dr. Vipin Agarwalla,13
+,, Male,Cardiologist,Dr. Syed B. Rizvi,5
+,, Male,Dentist,Dr. Ofer A. Cohen,17
+,, Male,Urologist,Dr. Pramod C. Sogani,11
+,, Female,Neurologist,Dr. Robyn J. Wolintz,20
+,, Male,Neurologist,Dr. Allan Sobin,20
+,, Male,Psychiatrist,Dr. Christopher Cahenzli,46
+,, Female,Internist / Geriatrician,Dr. Mary R. Parker,12
+,, Male,Gynecologist (OBGYN),Dr. Kevin D. Reilly,21
+,, Male,Gynecologist (OBGYN),Dr. Fouad Surur,35
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Anthony Sarro,1
+,, Male,Infectious Disease Specialist,Dr. Conrad Fischer,1
+,, Male,Dermatologist,Dr. Peter Lombardo,19
+,, Male,Dermatologist,Dr. Allen J. Natow,19
+,, Female,Pediatrician,Dr. Lina Merlino,30
+,, Male,Anesthesiologist,Dr. Charles Fermon,3
+,, Female,Pediatrician,Dr. Edna A. Pytlak,13
+,, Male,Psychiatrist,Dr. Gregory T. Lombardo,46
+,, Female,Psychiatrist,Dr. Shari Lusskin,17
+,, Female,Family Doctor / G.P.,Dr. Irina Benyaminova,14
+,, Male,Anesthesiologist,Dr. ANTHONY J. Giordano,3
+,, Male,Anesthesiologist,Dr. Robert B. Harper,3
+,, Male,Anesthesiologist,Dr. Ketan W. Shevde,3
+,, Male,Family Doctor / G.P.,Dr. Boris Dudelzak,14
+,, Male,Ophthalmologist,Dr. Alan C. Brown,14
+,, Male,Anesthesiologist,Dr. David W. Kimm,3
+,, Male,Surgeon (general),Dr. Ernane D. Reis,14
+,, Female,Pediatrician,Dr. Nalini H. PARIKH,13
+,, Male,Neurologist,Dr. CARL W. Braun,20
+,, Female,Orthopedic Surgeon,Dr. Cecilia Pascual-Garrido,19
+,, Female,Internist / Geriatrician,Dr. Arlene R. Curry,1
+,, Male,Podiatrist,Dr. Harley B. Kantor,17
+,, Female,Psychologist,Dr. Teresa Hsu-Walklet,23
+,, Male,Orthopedic Surgeon,Dr. Edward S. Rachlin,17
+,, Male,Psychiatrist,Dr. Frank B. Finkelstein,18
+,, Female,Oncologist / Hematologist,Dr. Eva Bieniek,19
+,, Male,Neurologist,Dr. Barry M. Czeisler,20
+,, Male,Gastroenterologist,Dr. Richard R. WARNER,20
+,, Female,Ophthalmologist,Dr. Greta Spanierman,14
+,, Male,Psychiatrist,Dr. James C. Chou,18
+,, Male,Neurosurgeon,Dr. Edgar Housepian,24
+,, Male,Neurosurgeon,Dr. Howard Weiner,24
+,, Male,Radiologist,Dr. Hossein Firooznia,3
+,, Male,Internist / Geriatrician,Dr. Joseph L. Mollura,12
+,, Male,Orthopedic Surgeon,Dr. Christopher Kyriakides,60
+,, Male,Neurologist,Dr. Aaron Miller,20
+,, Male,Psychologist,Dr. Ricardo Rieppi,353
+,, Male,Internist / Geriatrician,Dr. Jeffrey Sosinsky,12
+,, Male,Psychologist,Dr. Stephen G. Schneider,353
+,, Male,Radiologist,Dr. Lewis M. Rothman,1
+,, Female,Pediatrician,Dr. Jennifer E. Tingo,4
+,, Female,Family Doctor / G.P.,Dr. Fareeha B. Sattar,6
+,, Female,Psychiatrist,Dr. Ann Marie Sullivan,46
+,, Male,Gastroenterologist,Dr. Mervin Silverberg,2
+,, Male,Psychologist,Dr. Donald M. Levine,23
+,, Male,Emergency Room Doctor,Dr. Michael Marin,7
+,, Male,Anesthesiologist,Dr. Robert A. Veselis,3
+,, Male,Pediatrician,Dr. Harold S. Raucher,13
+,, Male,Anesthesiologist,Dr. Gilbert Grant,3
+,, Female,Anesthesiologist,Dr. Wendy A. Monkcom,3
+,, Male,Anesthesiologist,Dr. MATTHEW Levine,3
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Steven M. Shulman,20
+,, Male,Allergist / Immunologist,Dr. Ira Finegold,5
+,, Male,Dermatologist,Dr. BARRY Smith,19
+,, Male,Emergency Room Doctor,Dr. Gregory L. Almond,7
+,, Male,Gynecologist (OBGYN),Dr. Charles J. Lockwood,35
+,, Male,Allergist / Immunologist,Dr. Rao A. Yalamanchili,5
+,, Male,Pediatrician,Dr. Dinesh Giliyar,13
+,, Male,Cardiologist,Dr. Nasser Chaudhry,1
+,, Female,Psychiatrist,Dr. Julie K. Schulman,17
+,, Male,Internist / Geriatrician,Dr. Paul T. Smith,12
+,, Male,Oncologist / Hematologist,Dr. Paul B. Bader,19
+,, Male,Cardiothoracic Surgeon,Dr. Charles M. Geller,4
+,, Male,Cardiologist,Dr. Gerald W. Neuberg,5
+,, Male,Anesthesiologist,Dr. Jacob Israel,3
+,, Male,Dermatologist,Dr. Herbert Hochman,19
+,, Female,Dermatologist,Dr. Patricia L. Myskowski,19
+,, Male,Gynecologist (OBGYN),Dr. Francis A. Chervenak,35
+,, Female,Neurologist,Dr. Linda D. Lewis,20
+,, Male,Neurologist,Dr. XI Chen,20
+,, Female,Pediatrician,Dr. Sofia A. De La Cruz,13
+,, Female,Gynecologist (OBGYN),Dr. Deborah B. Schwartz,35
+,, Male,Psychiatrist,Dr. Asher Aladjem,46
+,, Male,Nephrologist (kidney),Dr. Jhoong Cheigh,2
+,, Male,Ophthalmologist,Dr. Allen Rubin,14
+,, Male,Ophthalmologist,Dr. Lawrence G. Pape,14
+,, Male,Neurosurgeon,Dr. John Golfinos,24
+,, Male,Ophthalmologist,Dr. Robert D'Amico,3
+,, Male,Orthopedic Surgeon,Dr. Christopher Kepler,24
+,, Male,Podiatrist,Dr. Winston L. WONG,17
+,, Male,Internist / Geriatrician,Dr. Francis Perrone,12
+,, Male,Internist / Geriatrician,Dr. Benjamin S. Kornitzer,4
+,, Male,Nephrologist (kidney),Dr. Neal Mittman,2
+,, Male,Surgeon (general),Dr. James F. Borin,14
+,, Female,Neurologist,Dr. Cigdem I. Akman,20
+,, Male,Podiatrist,Dr. Siddhartha Sharma,17
+,, Female,Radiologist,Dr. Satyagnani Nagubandi,3
+,, Female,Psychologist,Dr. Ellen Beyda,353
+,, Male,Allergist / Immunologist,Dr. Irwin Rappaport,5
+,, Male,Internist / Geriatrician,Dr. Franklin S. Ward,12
+,, Male,Cardiothoracic Surgeon,Dr. Daniel J. Krellenstein,4
+,, Female,"Plastic / Cosmetic Surgeon, Physician",Dr. Elizabeth M. Sieczka,155
+,, Male,Psychiatrist,Dr. Godfrey U. Mbonu,18
+,, Female,Cardiologist,Dr. Carolyn Leff,5
+,, Male,Cardiologist,Dr. Alvaro J. Dominguez,5
+,, Male,Internist / Geriatrician,Dr. Bruce B. Lerman,12
+,, Male,Cardiologist,Dr. Mark S. Lipton,5
+,, Male,Cardiologist,Dr. Kenneth W. Franklin,5
+,, Female,Internist / Geriatrician,Dr. Judith S. Hochman,12
+,, Male,Cardiologist,Dr. Kenneth Krauss,5
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Gary N. Inwald,20
+,, Male,Ophthalmologist,Dr. Solomon Liebowitz,14
+,, Male,Ophthalmologist,Dr. Jeffrey Liebmann,14
+,, Male,Radiologist,Dr. Wen-Chang C. Yang,3
+,, Male,Radiologist,Dr. Stuart H. Golbey,3
+,, Male,Radiologist,Dr. Alain Hyman,3
+,, Male,Geneticist,Dr. John Pappas,1
+,, Male,Internist / Geriatrician,Dr. Marc R. Hilaire,12
+,, Male,Oncologist / Hematologist,Dr. Louis B. Harrison,19
+,, Male,Internist / Geriatrician,Dr. Ronald Dailey,12
+,, Female,Family Doctor / G.P.,Dr. Celeste L. Walicki,14
+,, Male,Nephrologist (kidney),Dr. Jeffrey Silberzweig,2
+,, Male,Oncologist / Hematologist,Dr. Roger S. Keresztes,19
+,, Male,Oncologist / Hematologist,Dr. Paul A. Greenberg,19
+,, Female,Internist / Geriatrician,Dr. Marianne J. Legato,12
+,, Male,Psychiatrist,Dr. H. Michael Grant,17
+,, Male,Psychiatrist,Dr. Lloyd M. Siegel,17
+,, Male,Ophthalmologist,Dr. Richard B. Rosen,14
+,, Female,Internist / Geriatrician,Dr. Jessica E. Sangurima,1
+,, Male,Internist / Geriatrician,Dr. Robert K. Gale,12
+,, Male,Ophthalmologist,Dr. Oscar J. Kranz,2
+,, Male,Pediatrician,Dr. Paul B. Yellin,13
+,, Male,Dentist,Dr. Harry L. Campbell,17
+,, Male,Ophthalmologist,Dr. Raymond Harrison,14
+,, Male,Anesthesiologist,Dr. Yong S. Kwon,3
+,, Female,Oncologist / Hematologist,Dr. Judith C. Lin,19
+,, Male,Cardiologist,Dr. Marc B. Bogin,5
+,, Male,Internist / Geriatrician,Dr. Alan J. Stein,12
+,, Male,Radiologist,Dr. Albert V. Messina,3
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Tay Lee,1
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Arlene H. Markowitz,1
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Lloyd R. Dropkin,1
+,, Male,Radiologist,Dr. Michael W. Richter,5
+,, Male,Radiologist,Dr. Amiram Samin,3
+,, Female,Ear Nose and Throat (ENT) Doctor,Dr. Ludvika Hoppenstand,1
+,, Male,Internist / Geriatrician,Dr. Richard H. Wang,12
+,, Male,Gastroenterologist,Dr. Vincent M. Sottile,20
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. George A. Poulos,1
+,, Female,Neurosurgeon,Dr. Susan Panullo,24
+,, Female,Internist / Geriatrician,Dr. Sesha A. Patel,10
+,, Male,Urologist,Dr. Art Rastinehad,11
+,, Male,Family Doctor / G.P.,Dr. Nathaniel Brownlow,14
+,, Male,Cardiothoracic Surgeon,Dr. Sean Yetman,1
+,, Male,Psychologist,Dr. Henry Solomon,23
+,, Male,Emergency Room Doctor,Dr. Jeffrey Horwitz,7
+,, Male,Family Doctor / G.P.,Dr. Raul RAMOS,1
+,, Male,Internist / Geriatrician,Dr. Jonathan L. Hugo,12
+,, Male,Neurologist,Dr. Lawrence J. Hirsch,20
+,, Male,Internist / Geriatrician,Dr. Kumar Dharmarajan,4
+,, Male,Psychiatrist,Dr. Gregory C. Dillon,46
+,, Male,"Plastic / Cosmetic Surgeon, Physician",Dr. Richard J. Coburn,15
+,, Male,Family Doctor / G.P.,Dr. Alvin B. Hill,14
+,, Male,Neurologist,Dr. Chandra M. Sharma,20
+,, Female,Pediatrician,Dr. Joelle Mast,1
+,, Male,Pediatrician,Dr. Lawrence Noble,3
+,, Male,Internist / Geriatrician,Dr. Spencer Foreman,12
+,, Female,Ophthalmologist,Dr. Marcia Dunn,1
+,, Male,Anesthesiologist,Dr. HAROON W. Chaudhry,3
+,, Male,Anesthesiologist,Dr. Alexander Nacht,3
+,, Male,Cardiothoracic Surgeon,Dr. Robert Tranbaugh,4
+,, Male,Internist / Geriatrician,Dr. Tak CHAN,12
+,, Female,Psychiatrist,Dr. Hana Rostain,18
+,, Female,Pediatrician,Dr. Sumati Pande,6
+,, Male,Internist / Geriatrician,Dr. David MORRIS,12
+,, Male,Radiologist,Dr. Melvin Becker,3
+,, Male,Gynecologist (OBGYN),Dr. Myron Buchman,35
+,, Male,Neurologist,Dr. Martin GOLDSTEIN,20
+,, Male,Pediatrician,Dr. Muhammad Haque,13
+,, Male,Dermatologist,Dr. William A. Anderson,19
+,, Female,Radiologist,Dr. Claire Hanley,3
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Mohammad A. Rahman,99
+,, Male,Radiologist,Dr. Hillel Bryk,3
+,, Female,Gynecologist (OBGYN),Dr. Gale Y. Blakley,35
+,, Male,Podiatrist,Dr. Frank E. Colabella,17
+,, Female,Cardiologist,Dr. Michelle D. Spotnitz,2
+,, Male,Podiatrist,Dr. Howard R. Shapiro,17
+,, Male,Anesthesiologist,Dr. Richard Gellis,3
+,, Male,Psychiatrist,Dr. David A. Klein,17
+,, Male,Gynecologist (OBGYN),Dr. Yi-Chun Lee,21
+,, Male,Internist / Geriatrician,Dr. Stephen M. BRENNER,12
+,, Male,Neurologist,Dr. Ira R. Casson,20
+,, Male,Family Doctor / G.P.,Dr. Henry H. Kwah,14
+,, Male,Gynecologist (OBGYN),Dr. Robert Post,35
+,, Male,Ophthalmologist,Dr. Joseph B. Walsh,14
+,, Male,Surgeon (general),Dr. Lawrence D. Williams,14
+,, Male,Psychiatrist,Dr. Steven S. Shainmark,18
+,, Male,Psychiatrist,Dr. Bruce J. Schwartz,18
+,, Male,Nephrologist (kidney),Dr. John Sullivan,2
+,, Male,Orthopedic Surgeon,Dr. Satish Kashyap,17
+,, Male,Oncologist / Hematologist,Dr. Arjun V. Balar,19
+,, Male,Family Doctor / G.P.,Dr. Herbert C. Rader,14
+,, Male,Neurosurgeon,Dr. Patrick Kelly,24
+,, Female,Anesthesiologist,Dr. Dana L. Gurvitch,3
+,, Male,Ophthalmologist,Dr. Scott I. Afran,14
+,, Male,Anesthesiologist,Dr. Ralph L. Slepian,3
+,, Male,Anesthesiologist,Dr. Thomas J. Quinn,3
+,, Male,Pediatrician,Dr. Ka Li,13
+,, Male,Ophthalmologist,Dr. Daniel F. Rosberger,14
+,, Female,Family Doctor / G.P.,Dr. Elizabeth M. Wimbley,1
+,, Male,Anesthesiologist,Dr. Pavel Illner,3
+,, Male,Neurosurgeon,Dr. Zeki Uygur,24
+,, Female,Dentist,Dr. Angela Lee,17
+,, Male,Emergency Room Doctor,Dr. Terence M. Brady,7
+,, Male,Internist / Geriatrician,Dr. Tali Skoczylas,12
+,, Male,Internist / Geriatrician,Dr. William Sciales,1
+,, Male,Pathologist,Dr. Jose A. Goris,1
+,, Male,Internist / Geriatrician,Dr. ELLIOT Schwartz,12
+,, Male,Psychiatrist,Dr. William S. Breitbart,17
+,, Male,Psychiatrist,Dr. James H. Spencer,17
+,, Male,Internist / Geriatrician,Dr. Dunstan F. Pulle,12
+,, Female,Internist / Geriatrician,Dr. SHUYI Wu,12
+,, Female,Emergency Room Doctor,Dr. Dorothy I. Savarimuthu,7
+,, Female,Pediatrician,Dr. Felicia B. Axelrod,13
+,, Male,Surgeon (general),Dr. HOWARD G. Liang,14
+,, Female,Oncologist / Hematologist,Dr. Marleen Meyers,19
+,, Male,Internist / Geriatrician,Dr. Warren Licht,12
+,, Female,Internist / Geriatrician,Dr. Patria R. Gonzalez,12
+,, Male,Internist / Geriatrician,Dr. Chun Chan,12
+,, Male,Ophthalmologist,Dr. Steven M. Plotycia,14
+,, Male,Cardiologist,Dr. DAVID Messinger,8
+,, Male,Dermatologist,Dr. Robert Auerbach,19
+,, Male,Anesthesiologist,Dr. Jacques T. Ya Deau,3
+,, Male,Anesthesiologist,Dr. Fregens G. Duvalsaint,3
+,, Male,Ophthalmologist,Dr. Wayne G. Whitmore,14
+,, Male,Neurologist,Dr. Jerahme B. Posner,20
+,, Male,Emergency Room Doctor,Dr. Stuart G. Kessler,7
+,, Male,Urologist,Dr. Ron S. Bakal,11
+,, Male,Urologist,Dr. Harris Nagler,11
+,, Female,Radiologist,Dr. Kimberly N. Feigin,3
+,, Male,Ophthalmologist,Dr. Adam B. Pass,14
+,, Male,Ophthalmologist,Dr. Ari L. Weitzner,1
+,, Male,Ophthalmologist,Dr. Joseph R. Mermelstein,14
+,, Male,Ophthalmologist,Dr. Zeev Stegman,14
+,, Male,Psychiatrist,Dr. Stewart B. Fleishman,17
+,, Male,Anesthesiologist,Dr. Pietro Carpenito,3
+,, Male,Anesthesiologist,Dr. Faiz Hasham,3
+,, Male,Anesthesiologist,Dr. Marc B. Ehrenpreis,3
+,, Male,Anesthesiologist,Dr. John T. Herbert,3
+,, Male,Emergency Room Doctor,Dr. Kenneth Sutin,7
+,, Female,Psychiatrist,Dr. Elisabeth B. Guthrie,18
+,, Male,Psychiatrist,Dr. Henry Chung,17
+,, Male,Psychiatrist,Dr. Andrew W. Brotman,17
+,, Female,Pain Management Specialist / Physical Therapist,Dr. Nicole Sasson,99
+,, Male,Oncologist / Hematologist,Dr. John S. Macdonald,19
+,, Male,Oncologist / Hematologist,Dr. Yashar Hirshaut,19
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Stanley F. Wainapel,99
+,, Male,Ear Nose and Throat (ENT) Doctor,Dr. Roheen Raithatha,1
+,, Male,Allergist / Immunologist,Dr. Steven M. Schnipper,5
+,, Male,Cardiologist,Dr. Richard Fuchs,5
+,, Male,Cardiologist,Dr. Issam D. Moussa,2
+,, Male,Neurologist,Dr. Aleksander Beric,20
+,, Male,Pathologist,Dr. Dirk M. Elston,1
+,, Male,Pain Management Specialist / Physical Therapist,Dr. Jeffrey B. Weinberg,20
