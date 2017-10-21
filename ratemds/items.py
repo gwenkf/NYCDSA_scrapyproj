@@ -10,12 +10,8 @@ import scrapy
 
 class RatemdsItem(scrapy.Item):
 	doc_name = scrapy.Field()
+	cat_ratings = scrapy.Field()
 	specialty = scrapy.Field()
-	gender = scrapy.Field()
-	num_reviews = scrapy.Field()
-	insurances = scrapy.Field()
-	languages = scrapy.Field()
-	borough = scrapy.Field()
 
 
 
