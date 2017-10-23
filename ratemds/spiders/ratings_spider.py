@@ -24,8 +24,7 @@ class MDSpider(Spider):
 		doc_name = response.xpath('//div[@class="col-sm-6"]/h1/text()').extract_first()
 		specialty = response.xpath('//div[@class="search-item-info"]/a/text()').extract_first()
 		cat_ratings = response.xpath('//div[@class="col-xs-3 rating-number"]//text()[1]').extract()
-		cat_ratings = "".join(cat_ratings).split()
-
+		
 		item = RatemdsItem()
 		item['doc_name'] = doc_name
 		item['specialty'] = specialty
